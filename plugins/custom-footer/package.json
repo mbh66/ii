@@ -1,7 +1,7 @@
 {
   "name": "custom-footer",
   "version": "1.0.0",
-  "description": "Custom footer for the BioConomy wiki with copyright attribution",
+  "description": "Custom footer for the ii site with copyright attribution",
   "type": "module",
   "license": "MIT",
   "exports": {
