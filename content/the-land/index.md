@@ -22,7 +22,14 @@ The farm is portion 10 of the farm Broken Hill No. 88 [IC]. It lies at the foot 
 
 ## Pages in this section
 
+- [[the-land/the-lands-story|The Land's Story]]: the story the prospective stewards believe the land wants to tell, about its place in the conservation of the Duiwenhoks River and the Langeberg.
 - [[the-land/neighbours|Neighbours and the Conservation Land Around the Farm]]: the land that borders the farm and the protected areas to the north and west.
+- [[the-land/duiwenhoks-river-and-dam|The Duiwenhoks River and Dam]]: the river that passes the farm, its fish, the dam upstream, who shares its water, and its estuary.
+- [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]]: the protected mountain land where the river rises.
+- [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]]: the reserve declared in 2025 about 100 metres north of the farm, in the dam's catchment.
+- [[the-land/grootvadersbosch-nature-reserve|Grootvadersbosch Nature Reserve]]: the largest remaining indigenous forest in the Langeberg.
+- [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]]: how the Cape Water Performance-Based Bond pays for verified clearing, the clearing already under way above and along the river, and what links the two.
+- [[the-land/langeberg-water-source-area|The Langeberg Water Source Area]]: the strategic water source area the river flows from, with its condition and threats.
 
 ## Related
 

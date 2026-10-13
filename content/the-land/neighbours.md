@@ -115,6 +115,7 @@ The protected land north of the farm feeds the Duiwenhoks Dam [IC]. The dam hold
 - [[history/overview|The Duiwenhoks Valley: A Historical Overview]]
 - [[about|About This Site]]
 - [[how-to-respond|How to Respond]]
+- [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]]
 - [National Water Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-water-act): written for Ward 2; the Act applies here too
 
 ## References

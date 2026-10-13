@@ -17,11 +17,12 @@ This section tells the history of the land and the district around it. Pages are
 ## Start here
 
 - [[history/overview|The Duiwenhoks Valley: A Historical Overview]]: the river valley from Khoekhoe grazing land to the dam, with a timeline, a tenure table and the questions still open.
+- [[history/western-cape-floods|Floods in the Western Cape, 2003 to 2026]]: flood events across the province, the damage they did to soil, slopes and riverbanks, and what is recorded for Hessequa and the Duiwenhoks valley.
 
 ## How pages are grouped
 
 - **Tribes.** One page for each people whose story touches the land, organised by kinship and belonging.
-- **Institutions.** One page for each institution that shaped the district, organised by written rules, authority and fixed settlement.
+- **Institutions.** One page for each institution that shaped the district or looks after it today, organised by written rules, authority and fixed settlement. These pages have their own section, [[institutions/index|Institutions]].
 - **Markets.** One page for each way the district exchanged goods, labour, money and land, organised by exchange at a price.
 
 ## How pages are written
@@ -36,6 +37,7 @@ Rock art, graves and other heritage sites are never located on this site. [[how-
 
 - [[about|About This Site]]
 - [[the-land/index|The Land]]
+- [[institutions/index|Institutions]]
 - [Valley History on the W2DF register](https://df.valleyofgrace.co.za/history/): the history of the Genadendal and Greyton valley, grouped the same way
 - [The TIME Model on the W2DF register](https://df.valleyofgrace.co.za/history/the-time-model): a short explanation of the four forms
 - W2DF sections: [Tribes](https://df.valleyofgrace.co.za/history/tribes/), [Institutions](https://df.valleyofgrace.co.za/history/institutions/) and [Markets](https://df.valleyofgrace.co.za/history/markets/)
