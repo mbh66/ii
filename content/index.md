@@ -23,7 +23,7 @@ Isikhova & Ironwood is a 202-hectare parcel of land near Heidelberg, Western Cap
 
 ## Status
 
-This is a working draft. It is public on the web, and its address is shared only with people involved in the process, and nothing is indexed by search engines. Pages that describe a person or an organisation say whether that party has replied. [[how-to-respond|How to Respond]] explains how to correct a page.
+This is a working draft. It is **not** public on the web, and its address is shared only with people directly involved in the process, and nothing is indexed by search engines. Pages that describe a person or an organisation say whether that party has agreed with the information published. [[how-to-respond|How to Respond]] explains how to correct a page.
 
 ## Related
 

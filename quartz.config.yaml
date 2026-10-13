@@ -232,8 +232,6 @@ plugins:
     options:
       copyrightHolder: Michael Haupt & Associates
       links:
-        GitHub: https://github.com/mbh66/ii
-        Community: https://github.com/mbh66/ii/discussions
     layout:
       position: footer
       priority: 50

@@ -11,3 +11,4 @@
 - [History](https://ii.bioconomy.earth/history/): peoples, institutions and markets.
 - [Community](https://ii.bioconomy.earth/community/): the company and its residents, in their own words.
 - [Proposals](https://ii.bioconomy.earth/proposals/): ideas not yet agreed.
+- [Documents](https://ii.bioconomy.earth/documents/): plain-language summaries of the company's constitution and shareholders' agreement, the municipal approval for homes, and the residents' newsletter.
