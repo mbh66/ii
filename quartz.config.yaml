@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: BioConomy
-  pageTitleSuffix: ": a BioConomy perspective"
+  pageTitle: Isikhova & Ironwood
+  pageTitleSuffix: null
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wiki.bioconomy.earth
+  baseUrl: ii.bioconomy.earth
   ignorePatterns:
     - private
     - .obsidian
@@ -140,8 +140,8 @@ plugins:
   - source: "@quartz-community/content-index"
     enabled: true
     options:
-      enableSiteMap: true
-      enableRSS: true
+      enableSiteMap: false
+      enableRSS: false
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
@@ -227,21 +227,20 @@ plugins:
       priority: 10
   - source: "@quartz-community/footer"
     enabled: false
-  - source: "./plugins/custom-footer"
+  - source: ./plugins/custom-footer
     enabled: true
     options:
-      copyrightHolder: "Michael Haupt & Associates"
+      copyrightHolder: Michael Haupt & Associates
       links:
-        GitHub: https://github.com/mbh66/wiki
-        Community: https://github.com/mbh66/wiki/discussions
-        AI Policy: /ai-policy
+        GitHub: https://github.com/mbh66/ii
+        Community: https://github.com/mbh66/ii/discussions
     layout:
       position: footer
       priority: 50
-  - source: "./plugins/gtranslate"
+  - source: ./plugins/gtranslate
     enabled: true
     options:
-      defaultLanguage: "en"
+      defaultLanguage: en
       detectBrowserLanguage: true
     layout:
       position: afterBody
