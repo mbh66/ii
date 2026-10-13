@@ -16,8 +16,18 @@ This section describes the farm as a piece of land: where it sits, its water, ve
 
 Each page in this section states where its facts come from. Measurements and ecological claims rest on surveys, maps or official records. A claim carries [IC] only when two independent sources agree or an official record confirms it. Pages that describe a neighbour or a public body say whether that party has replied.
 
+## Where the farm sits
+
+The farm is portion 10 of the farm Broken Hill No. 88 [IC]. It lies at the foot of the Langeberg, about 9 km north of Heidelberg and about 700 metres downstream of the Duiwenhoks Dam [MS]. Protected mountain land lies to its north and west. The farm shares a boundary with a parcel of the Boosmansbos Wilderness Area [TBV], and the Wilderness Nature Reserve, declared in July 2025 [IC], lies about 100 metres away [MS]. At least a fifth of the land within 2 km of the farm is protected, and two undeveloped neighbouring portions add about a tenth more [MS]. [[the-land/neighbours|Neighbours and the Conservation Land Around the Farm]] gives the figures.
+
+## Pages in this section
+
+- [[the-land/neighbours|Neighbours and the Conservation Land Around the Farm]]: the land that borders the farm and the protected areas to the north and west.
+
 ## Related
 
 - [[index|Isikhova & Ironwood]]
 - [[history/index|History]]
 - [[community/index|Community]]
+- [National Water Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-water-act): written for Ward 2; the Act applies here too
+- [National Veld and Forest Fire Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-veld-and-forest-fire-act): written for Ward 2; the Act applies here too

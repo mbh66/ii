@@ -65,6 +65,8 @@ In early September 2025 a controlled burn on a neighbouring farm got out of hand
 - [[the-land/index|The Land]]
 - [[community/index|Community]]
 - [[how-to-respond|How to Respond]]
+- [National Water Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-water-act): written for Ward 2; the Act applies here too
+- [National Veld and Forest Fire Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-veld-and-forest-fire-act): written for Ward 2; the Act applies here too
 
 ## Source
 

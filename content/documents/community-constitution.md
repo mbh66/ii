@@ -148,6 +148,7 @@ Annex A gives the everyday rules in short form [MS]. Every guest reads and signs
 - [[documents/municipal-approval-2024|Municipal Approval for Additional Homes (2024)]]
 - [[community/index|Community]]
 - [[how-to-respond|How to Respond]]
+- [National Veld and Forest Fire Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-veld-and-forest-fire-act): written for Ward 2; the Act applies here too
 
 ## Source
 

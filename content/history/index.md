@@ -14,6 +14,10 @@ updated: 2026-10-13
 
 This section tells the history of the land and the district around it. Pages are grouped by three of the four forms in David Ronfeldt's [TIME framework](https://wiki.bioconomy.earth/frameworks/time-framework).
 
+## Start here
+
+- [[history/overview|The Duiwenhoks Valley: A Historical Overview]]: the river valley from Khoekhoe grazing land to the dam, with a timeline, a tenure table and the questions still open.
+
 ## How pages are grouped
 
 - **Tribes.** One page for each people whose story touches the land, organised by kinship and belonging.
@@ -32,3 +36,6 @@ Rock art, graves and other heritage sites are never located on this site. [[how-
 
 - [[about|About This Site]]
 - [[the-land/index|The Land]]
+- [Valley History on the W2DF register](https://df.valleyofgrace.co.za/history/): the history of the Genadendal and Greyton valley, grouped the same way
+- [The TIME Model on the W2DF register](https://df.valleyofgrace.co.za/history/the-time-model): a short explanation of the four forms
+- W2DF sections: [Tribes](https://df.valleyofgrace.co.za/history/tribes/), [Institutions](https://df.valleyofgrace.co.za/history/institutions/) and [Markets](https://df.valleyofgrace.co.za/history/markets/)

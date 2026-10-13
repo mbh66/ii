@@ -115,6 +115,10 @@ The [[documents/shareholders-agreement|Shareholders' Agreement]] defines the Sit
 - [[documents/community-constitution|Community Constitution (2025)]]
 - [[the-land/index|The Land]]
 - [[how-to-respond|How to Respond]]
+- [Spatial Planning and Land Use Management Act on the W2DF register](https://df.valleyofgrace.co.za/rules/spatial-planning-and-land-use-management-act): written for Ward 2; the Act applies here too
+- [Western Cape Land Use Planning Act on the W2DF register](https://df.valleyofgrace.co.za/rules/western-cape-land-use-planning-act): written for Ward 2; the Act applies here too
+- [National Water Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-water-act): written for Ward 2; the Act applies here too
+- [National Veld and Forest Fire Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-veld-and-forest-fire-act): written for Ward 2; the Act applies here too
 
 ## Source
 

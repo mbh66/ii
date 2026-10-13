@@ -21,7 +21,7 @@ The site borrows its practices from the [Ward 2 Development Forum register](http
 - Every factual claim carries a tag in square brackets. The key is below.
 - A page about a person or an organisation says whether that party has been asked to reply.
 - A proposal opens with a notice that says who has and has not been asked.
-- History pages are grouped as Tribes, Institutions and Markets, three of the four forms in David Ronfeldt's [TIME framework](https://wiki.bioconomy.earth/frameworks/time-framework).
+- History pages are grouped as Tribes, Institutions and Markets, three of the four forms in David Ronfeldt's [TIME framework](https://wiki.bioconomy.earth/frameworks/time-framework), the grouping the W2DF register uses for its [Valley History](https://df.valleyofgrace.co.za/history/).
 - Individual residents are not named. Contact details, the financial terms of the company's agreements, and the location of heritage sites do not appear.
 
 > [!info] What the letters in square brackets mean

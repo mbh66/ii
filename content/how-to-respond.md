@@ -24,7 +24,7 @@ Send sources, documents and first-hand accounts. A page cites them under Referen
 
 ## Heritage sites
 
-Rock art, graves and other heritage sites are never described or located in these pages. If you know of one on the land or in the district, tell Michael privately and it stays between you.
+Rock art, graves and other heritage sites are never described or located in these pages. The National Heritage Resources Act protects them [IC], and the W2DF register [explains the Act](https://df.valleyofgrace.co.za/rules/national-heritage-resources-act). If you know of one on the land or in the district, tell Michael privately and it stays between you.
 
 ## Related
 
