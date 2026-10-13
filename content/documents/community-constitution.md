@@ -64,7 +64,7 @@ Serious misconduct, such as theft, violent crime or major harm to the environmen
 - Homes are meant to be modest. A size of 120 m² is encouraged and 200 m² is the upper limit [MS].
 - Maximum height is 6.5 metres and a double-storey home needs the unanimous consent of all shareholders [MS].
 - Areas stay unfenced, and every home keeps a firebreak of at least 10 metres [MS].
-- Before building, a member tells the CMP and gets its sign-off that the design meets the community's guidelines and the Site Development Plan. The member then builds to the approved design and lodges building plans with Hessequa Municipality [MS].
+- Before building, a member tells the CMP and gets its sign-off that the design meets the community's guidelines and the Site Development Plan. The member then builds to the approved design and lodges building plans with [[institutions/hessequa-municipality|Hessequa Municipality]] [MS].
 
 ## Shared facilities
 

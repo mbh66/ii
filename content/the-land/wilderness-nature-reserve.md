@@ -37,7 +37,7 @@ Announcing the declaration, the Western Cape's Minister of Local Government, Env
 
 ## The catchment above the dam
 
-In April 2023 volunteers working with CapeNature cleared invasive pines from the upper catchment of the Duiwenhoks Dam, some of them lowered on ropes beneath a helicopter [TBV]. The project brought together CapeNature, the HeliHack Initiative, landowners, the Grootvadersbos Conservancy, Husqvarna and volunteers [TBV]. The sources checked do not say whether the clearing took place on land that is now in the reserve [MS]. [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]] describes the clearing since then and what it could mean for the catchment.
+In April 2023 volunteers working with CapeNature cleared invasive pines from the upper catchment of the Duiwenhoks Dam, some of them lowered on ropes beneath a helicopter [TBV]. The project brought together CapeNature, the [[institutions/helihack-initiative|HeliHack Initiative]], landowners, the [[institutions/grootvadersbosch-conservancy|Grootvadersbos Conservancy]], Husqvarna and volunteers [TBV]. The sources checked do not say whether the clearing took place on land that is now in the reserve [MS]. [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]] describes the clearing since then and what it could mean for the catchment.
 
 ## What is still open
 

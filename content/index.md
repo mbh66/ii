@@ -24,11 +24,12 @@ Isikhova & Ironwood is a 202-hectare parcel of land near Heidelberg, Western Cap
 - [[history/index|History]]: the peoples, institutions, and markets that shaped the land and the district.
 - [[institutions/index|Institutions]]: the public bodies and local organisations that look after the land, water and protected areas around the farm.
 - [[community/index|Community]]: the company and the people who live on the farm, in their own words.
+- [[research/index|Research]]: briefs that gather the evidence behind the proposals, and say where it runs out.
 - [[proposals/index|Proposals]]: ideas for the land that nobody has agreed to yet.
 
 ## Status
 
-This is a working draft. It is **not** public on the web, and its address is shared only with people directly involved in the process, and nothing is indexed by search engines. Pages that describe a person or an organisation say whether that party has agreed with the information published. [[how-to-respond|How to Respond]] explains how to correct a page.
+This is a working draft. Its address is shared only with people directly involved in the process, and every page is behind a password. Pages that describe a person or an organisation say whether that party has agreed with the information published. [[how-to-respond|How to Respond]] explains how to correct a page.
 
 ## Related
 

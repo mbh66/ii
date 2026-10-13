@@ -19,7 +19,7 @@ updated: 2026-10-13
 > [!note] Not yet checked with the municipality or the company
 > This page summarises an official decision. Hessequa Municipality and the company have not yet been asked to comment on the summary.
 
-On 19 September 2024 the Eden Joint Planning Tribunal approved an application to allow six Additional Dwelling Units on the farm, on top of its main dwelling [IC]. Hessequa Municipality gave notice of the decision in a letter from its Director of Development Planning dated 1 October 2024 [IC]. The approval caps the farm at seven homes and sets conditions on how they are planned, sited and built [IC].
+On 19 September 2024 the Eden Joint Planning Tribunal approved an application to allow six Additional Dwelling Units on the farm, on top of its main dwelling [IC]. [[institutions/hessequa-municipality|Hessequa Municipality]] gave notice of the decision in a letter from its Director of Development Planning dated 1 October 2024 [IC]. The approval caps the farm at seven homes and sets conditions on how they are planned, sited and built [IC].
 
 The letters in square brackets show where each fact comes from. [IC] means it comes from an official record, in this case the municipality's letter. [[about|About This Site]] explains the tags.
 
@@ -28,7 +28,7 @@ The letters in square brackets show where each fact comes from. [IC] means it co
 - The farm may have seven homes in total: one main dwelling and six additional units [IC].
 - Each additional unit may have up to 200 m² of floor area and stand up to 6.5 metres high [IC].
 - The approval lapses if it is not used within five years, and all the additional units must be built within five years, or before about September 2029 [IC].
-- Before building plans are approved, the owner must produce an environmental management plan linked to a stewardship agreement with CapeNature, and obtain the Overberg Water Board's comment on the water-sharing arrangement [IC].
+- Before building plans are approved, the owner must produce an environmental management plan linked to a stewardship agreement with [[institutions/capenature|CapeNature]], and obtain the [[institutions/overberg-water|Overberg Water Board]]'s comment on the water-sharing arrangement [IC].
 - The units may not be sold off separately by any means, including share block, share title, sectional title or subdivision [IC].
 
 ## The decision
@@ -87,7 +87,7 @@ Before building plans are approved, the owner must compile an environmental cons
 - The disturbed footprint is about 4,507 m², a small fraction of the farm [IC].
 - The Western Cape Rural Areas Guideline allows up to five units in addition to a main dwelling on land zoned Agricultural Zone 1. In the absence of a local rural development strategy, the Tribunal allowed six, which it found consistent with the Hessequa zoning scheme by-law [IC].
 - The Tribunal found the development fits the character of the area and would strengthen the local economy, provided the conditions are met [IC].
-- Two protected areas lie within five kilometres: the Boosmansbos Wilderness Area, declared in 1978 and part of the Cape Floral Region World Heritage Site since 2009, and the Hessequa Hills Private Nature Reserve, declared in 1999 [IC]. In addition, a private individual has established a 615-hectare Critical Biodiversity Area that connects with the Boosmansbos Wilderness Area. This land now forms the core of the Wilderness Nature Reserve, which was officially declared a Provincial Nature Reserve in July 2025, spanning over 643 hectares [IC]. 
+- Two protected areas lie within five kilometres: the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]], declared in 1978 and part of the Cape Floral Region World Heritage Site since 2009, and the Hessequa Hills Private Nature Reserve, declared in 1999 [IC]. In addition, a private individual has established a 615-hectare Critical Biodiversity Area that connects with the Boosmansbos Wilderness Area. This land now forms the core of the [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]], which was officially declared a Provincial Nature Reserve in July 2025, spanning over 643 hectares [IC]. 
 - Part of the footprint lies in an area of medium-high botanical sensitivity, which is why the approval requires the environmental management plan and the CapeNature stewardship agreement [IC].
 - The Tribunal has no power to judge the validity of water rights. The Overberg Water Board must confirm that water is available before construction starts [IC].
 - The application included the agreement of the owners whose land the new access road crosses, with conditions [IC].

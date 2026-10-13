@@ -18,15 +18,15 @@ aliases:
 updated: 2026-10-13
 ---
 
-Isikhova & Ironwood is portion 10 of the farm Broken Hill No. 88, in the Hessequa Municipality north of Heidelberg [IC]. It covers about 202 hectares [MS]. The farm lies at the foot of the Langeberg, where mountain land protected for its water and its plants meets the farmland of the Duiwenhoks valley [MS]. On its north-western edge it shares a boundary with a parcel of the Boosmansbos Wilderness Area [TBV]. The Wilderness Nature Reserve lies about 100 metres away, and the Duiwenhoks Dam about 700 metres upstream [MS]. Two of the neighbouring portions, which share about a third of the farm's boundary, are undeveloped [MS].
+Isikhova & Ironwood is portion 10 of the farm Broken Hill No. 88, in the [[institutions/hessequa-municipality|Hessequa Municipality]] north of Heidelberg [IC]. It covers about 202 hectares [MS]. The farm lies at the foot of the Langeberg, where mountain land protected for its water and its plants meets the farmland of the Duiwenhoks valley [MS]. On its north-western edge it shares a boundary with a parcel of the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]] [TBV]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]] lies about 100 metres away, and the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] about 700 metres upstream [MS]. Two of the neighbouring portions, which share about a third of the farm's boundary, are undeveloped [MS].
 
-The neighbours named on this page are pieces of land, identified by their Surveyor General farm names and portion numbers. The page names no owners. The owners of neighbouring land, CapeNature and the Duiwenhoks irrigation board have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
+The neighbours named on this page are pieces of land, identified by their Surveyor General farm names and portion numbers. The page names no owners. The owners of neighbouring land, CapeNature and the Duiwenhoks [[institutions/duiwenhoks-irrigation-board|irrigation board]] have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
 The map that accompanies this page can be found here: https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yILVHrx4tfyZ1oys?usp=sharing
 
 ## How the figures were measured
 
-The family measured the distances, areas and boundary lengths on this page from the Surveyor General's cadastral outlines, loaded into a map of the surrounding farms [MS]. The figures are approximate. Areas of individual parcels come from the Surveyor General's data [IC]. Which reserve a parcel belongs to is marked on the family's map, and the page says where that marking still needs to be checked against CapeNature's boundaries.
+The family measured the distances, areas and boundary lengths on this page from the Surveyor General's cadastral outlines, loaded into a map of the surrounding farms [MS]. The figures are approximate. Areas of individual parcels come from the Surveyor General's data [IC]. Which reserve a parcel belongs to is marked on the family's map, and the page says where that marking still needs to be checked against [[institutions/capenature|CapeNature]]'s boundaries.
 
 ## The farm at a glance
 
@@ -47,7 +47,7 @@ Three protected areas lie north and west of the farm [MS]. Together, the parcels
 
 | Protected area | What it is | Size | Nearest point to the farm |
 |---|---|---|---|
-| Boosmansbos Wilderness Area | Proclaimed a Wilderness Area in 1978 and part of the Cape Floral Region World Heritage Site since 2004; managed by CapeNature as part of Grootvadersbosch Nature Reserve [IC] | 14,200 hectares according to CapeNature [IC] | Shares about 640 metres of the farm's north-western boundary, through Broken Hill No. 88/12 [TBV] |
+| Boosmansbos Wilderness Area | Proclaimed a Wilderness Area in 1978 and part of the Cape Floral Region World Heritage Site since 2004; managed by CapeNature as part of [[the-land/grootvadersbosch-nature-reserve\|Grootvadersbosch Nature Reserve]] [IC] | 14,200 hectares according to CapeNature [IC] | Shares about 640 metres of the farm's north-western boundary, through Broken Hill No. 88/12 [TBV] |
 | Wilderness Nature Reserve | Two portions of the farm Klip Hoogte No. 83, declared a Provincial Nature Reserve in July 2025 [IC] | About 643.6 hectares [IC] | About 100 metres to the north [MS] |
 | Grootvadersbosch Nature Reserve | Holds the largest remaining indigenous forest in the Langeberg, about 250 hectares of it [IC] | Parcels covering about 4,200 hectares on the family's map [MS] | About 8 km to the west [MS] |
 
@@ -61,7 +61,7 @@ The Wilderness Nature Reserve was declared a Provincial Nature Reserve under the
 
 About 615 hectares of the reserve are designated a Priority Biodiversity Area [IC]. The reserve links directly to Boosmansbos and forms part of the upper catchment of the Duiwenhoks Dam [IC]. It is home to the Breede River redfin, a critically endangered fish, and is a breeding site for the black harrier, an endangered bird of prey [IC].
 
-In April 2023 volunteers working with CapeNature cleared invasive pines from the upper catchment of the Duiwenhoks Dam, some of them suspended on ropes beneath a helicopter [TBV]. The project, called the HeliHack, brought together CapeNature, the HeliHack Initiative, landowners, the Grootvadersbos Conservancy, Husqvarna and volunteers [TBV]. Invasive plants reduce the water that reaches rivers and dams, and pines are among the largest threats to the catchment [TBV].
+In April 2023 volunteers working with CapeNature cleared invasive pines from the upper catchment of the Duiwenhoks Dam, some of them suspended on ropes beneath a helicopter [TBV]. The project, called the HeliHack, brought together CapeNature, the [[institutions/helihack-initiative|HeliHack Initiative]], landowners, the [[institutions/grootvadersbosch-conservancy|Grootvadersbos Conservancy]], Husqvarna and volunteers [TBV]. Invasive plants reduce the water that reaches rivers and dams, and pines are among the largest threats to the catchment [TBV].
 
 ### Grootvadersbosch Nature Reserve
 
@@ -85,7 +85,7 @@ About 42 percent of the farm's boundary meets either protected land or the two u
 
 ## Water from the protected catchment
 
-The protected land north of the farm feeds the Duiwenhoks Dam [IC]. The dam holds about 6.2 million cubic metres at full supply [IC]. It supplies Heidelberg, Slangrivier, Witsand and the surrounding farms, about 15,000 people in all [TBV]. The farm lies below the dam, on the Duiwenhoks River [MS]. A Department of Water and Sanitation gauging station named "Duiwenhoks River at Broken Hill" recorded the river about 2 km south-west of the farm from 1972 to 1984 [IC].
+The protected land north of the farm feeds the Duiwenhoks Dam [IC]. The dam holds about 6.2 million cubic metres at full supply [IC]. It supplies Heidelberg, Slangrivier, Witsand and the surrounding farms, about 15,000 people in all [TBV]. The farm lies below the dam, on the Duiwenhoks River [MS]. A [[institutions/department-of-water-and-sanitation|Department of Water and Sanitation]] gauging station named "Duiwenhoks River at Broken Hill" recorded the river about 2 km south-west of the farm from 1972 to 1984 [IC].
 
 [[history/overview|The Duiwenhoks Valley: A Historical Overview]] sets out how the river and the dam came to be managed as they are.
 

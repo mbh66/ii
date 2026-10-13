@@ -44,7 +44,7 @@ CapeNature confirms that a short section of the conservancy's cycle trail lies i
 | Date | Event | Tag |
 |---|---|---|
 | 1992 | The conservancy is founded | [TBV] |
-| April 2023 | The conservancy joins CapeNature, the HeliHack Initiative, landowners, Husqvarna and volunteers to clear invasive pines from the upper catchment of the Duiwenhoks Dam | [TBV] |
+| April 2023 | The conservancy joins CapeNature, the HeliHack Initiative, landowners, Husqvarna and volunteers to clear invasive pines from the upper catchment of the [[the-land/duiwenhoks-river-and-dam\|Duiwenhoks Dam]] | [TBV] |
 
 ## What is still open
 

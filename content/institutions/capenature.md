@@ -44,7 +44,7 @@ CapeNature says landowners in the programme receive advice, management plans, he
 | 2004 | Boosmansbos included in the Cape Floral Region Protected Areas World Heritage Site | [IC] |
 | 2015 | Grootvadersbosch added to the World Heritage Site | [TBV] |
 | 2016 | Eleven cabins built at Grootvadersbosch on the site of former forestry staff housing | [IC] |
-| April 2023 | Volunteers working with CapeNature clear invasive pines from the upper catchment of the Duiwenhoks Dam; [[the-land/cape-water-bond\|The Cape Water Bond and Clearing Around the Farm]] gives the later operations | [TBV] |
+| April 2023 | Volunteers working with CapeNature clear invasive pines from the upper catchment of the [[the-land/duiwenhoks-river-and-dam\|Duiwenhoks Dam]]; [[the-land/cape-water-bond\|The Cape Water Bond and Clearing Around the Farm]] gives the later operations | [TBV] |
 | 2023 | Firewood from outside banned on CapeNature reserves because of the polyphagous shot hole borer | [IC] |
 | 19 September 2024 | The approval for additional homes on the farm requires a stewardship agreement with CapeNature | [IC] |
 | July 2025 | The Wilderness Nature Reserve declared, with CapeNature as manager | [IC] |
@@ -57,7 +57,7 @@ The 2024 approval requires the owner to compile an environmental conservation ma
 - Which of the four stewardship options the 2024 approval has in mind, and whether talks with CapeNature have begun. This concerns the company, and the site will say nothing more on it until the company has replied.
 - Which body managed Boosmansbos and Grootvadersbosch before CapeNature was formed, and under what names.
 - The state of CapeNature's management plans for the reserves near the farm. BirdLife South Africa reported them under revision [TBV].
-- Whether CapeNature confirms that Broken Hill No. 88/12 lies inside the Boosmansbos Wilderness Area.
+- Whether CapeNature confirms that [[the-land/neighbours|Broken Hill No. 88/12]] lies inside the Boosmansbos Wilderness Area.
 
 ## Related
 

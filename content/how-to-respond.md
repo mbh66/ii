@@ -12,7 +12,7 @@ password: isikhova
 updated: 2026-10-13
 ---
 
-Every page on this site is open to correction. The site can be seen by anyone who has received the link, but it isn't public on the web. Its address is shared only with people involved in the process. Write to Michael Haupt for any corrections.
+Every page on this site is open to correction. The site's address is shared only with people involved in the process, and every page is behind a password. Write to Michael Haupt for any corrections.
 
 ## If a page names or describes you
 

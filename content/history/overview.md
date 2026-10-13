@@ -18,13 +18,13 @@ aliases:
 updated: 2026-10-13
 ---
 
-Isikhova & Ironwood lies on the Duiwenhoks River near Heidelberg [MS]. It is portion 10 of the farm Broken Hill No. 88 [IC], about 700 metres downstream of the Duiwenhoks Dam [MS]. This page sets out what the written record says about the river valley around the farm, from the Khoekhoe herders who grazed it before 1652 to the dam that regulates the river today. It covers the district and the river. The history of the farm's own title has yet to be traced, and *What is still open* lists that work first.
+Isikhova & Ironwood lies on the Duiwenhoks River near Heidelberg [MS]. It is portion 10 of the farm Broken Hill No. 88 [IC], about 700 metres downstream of the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] [MS]. This page sets out what the written record says about the river valley around the farm, from the Khoekhoe herders who grazed it before 1652 to the dam that regulates the river today. It covers the district and the river. The history of the farm's own title has yet to be traced, and *What is still open* lists that work first.
 
 The written record for most of this period was made by outsiders: [Dutch East India Company](https://df.valleyofgrace.co.za/history/institutions/dutch-east-india-company) officials, travellers, surveyors and later colonial administrators. Where the page relies on their accounts, it says so. Descendants of the Khoekhoe who lived here may live in the district today, and their own accounts correct this page. The key to the letters in square brackets is on [[about|About This Site]].
 
 ## The river
 
-The Duiwenhoks River rises in the Langeberg, inside what is now the Boosmansbos Wilderness Area, and flows south past Heidelberg to the Indian Ocean [IC]. Heidelberg stands on its banks [IC]. The Duiwenhoks Dam sits on the river upstream of the town and holds about 6.2 million cubic metres at full supply [IC].
+The Duiwenhoks River rises in the Langeberg, inside what is now the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]], and flows south past Heidelberg to the Indian Ocean [IC]. Heidelberg stands on its banks [IC]. The Duiwenhoks Dam sits on the river upstream of the town and holds about 6.2 million cubic metres at full supply [IC].
 
 ## Before the Company
 
@@ -56,9 +56,9 @@ The sources checked for this page record no mission station in the Duiwenhoks va
 
 ## Mountain and water in the twentieth century
 
-Boosmansbos was demarcated as a State Forest in 1896 [TBV]. It was proclaimed a Wilderness Area in 1978 and became part of the Cape Floral Region World Heritage Site in 2004 [IC]. It is managed today as part of the Grootvadersbosch Nature Reserve [IC]. Adjoining private mountain land was proclaimed a Mountain Catchment Area in 1981 [TBV].
+Boosmansbos was demarcated as a State Forest in 1896 [TBV]. It was proclaimed a Wilderness Area in 1978 and became part of the Cape Floral Region World Heritage Site in 2004 [IC]. It is managed today as part of the [[the-land/grootvadersbosch-nature-reserve|Grootvadersbosch Nature Reserve]] [IC]. Adjoining private mountain land was proclaimed a Mountain Catchment Area in 1981 [TBV].
 
-The Duiwenhoks Dam was built in the early 1960s; one local account gives construction from 1960 to 1963, and another source gives completion in 1965 [TBV]. Farmers below the dam share its water through an irrigation board, whose water bailiff divides the supply between grazing and vegetable farmers [TBV]. The research file behind this page gives annual allocations of about 3.7 million cubic metres for irrigation, 1.1 million for a rural water scheme and 1 million for Heidelberg [TBV].
+The Duiwenhoks Dam was built in the early 1960s; one local account gives construction from 1960 to 1963, and another source gives completion in 1965 [TBV]. Farmers below the dam share its water through an [[institutions/duiwenhoks-irrigation-board|irrigation board]], whose water bailiff divides the supply between grazing and vegetable farmers [TBV]. The research file behind this page gives annual allocations of about 3.7 million cubic metres for irrigation, 1.1 million for a rural water scheme and 1 million for Heidelberg [TBV].
 
 Under the [National Water Act](https://df.valleyofgrace.co.za/rules/national-water-act) of 1998, the national government holds the country's water resources as public trustee [IC].
 
@@ -109,7 +109,7 @@ Under the [National Water Act](https://df.valleyofgrace.co.za/rules/national-wat
 |---|---|---|
 | Who first held Doornboom, and when | Accounts give a first grazing licence in 1716 to Louis Fourie, in 1725 to Andries Gous, and a homestead registered in 1728. The Receiver of Land Revenue's register, as cited in the 2006 heritage assessment, gives Gous in 1730 and Fourie by 1733. | The page follows the register [IC] and lists the other dates as unconfirmed [TBV]. |
 | Which people used the Duiwenhoks valley | Elphick and Le Roux, as summarised in the research file, draw the boundary between the Hessequa and the Chainoqua in different places. | Both accounts stand. The page names the Hessequa range [IC] and leaves the valley's boundary open. |
-| What the name Boosmansbos records | One reading treats it as evidence of hunter-gatherers. CapeNature traces it to a nineteenth-century hermit. | The page follows CapeNature [IC]. |
+| What the name Boosmansbos records | One reading treats it as evidence of hunter-gatherers. [[institutions/capenature\|CapeNature]] traces it to a nineteenth-century hermit. | The page follows CapeNature [IC]. |
 | When the dam was finished | 1963 in a local account; 1965 in another source. | Built in the early 1960s [TBV]. |
 | Which church founded Suurbraak | The research file names the Moravian Church. Published histories name the London Missionary Society. | London Missionary Society [IC]. |
 

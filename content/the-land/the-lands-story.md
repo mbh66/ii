@@ -74,7 +74,7 @@ Read together, the river, the mountain and the floods suggest a story with three
 
 ### Holding water on the land
 
-A literature search for the BioConomy wiki in October 2026 found no study that tests whether earthworks that slow water (swales, contour bunds, leaky weirs, gully plugs) change infiltration, soil moisture or streamflow at a fynbos or renosterveld restoration site [MS]. The nearest renosterveld work, a Stellenbosch University thesis on the Bot River catchment, modelled erosion against a natural-vegetation baseline of 22 tonnes per square kilometre per year [IC] and found that renosterveld fragments clean polluted runoff from farmland [IC].
+A [[research/water-retention-evidence|literature search]] for the BioConomy wiki in October 2026 found no study that tests whether earthworks that slow water (swales, contour bunds, leaky weirs, gully plugs) change infiltration, soil moisture or streamflow at a fynbos or renosterveld restoration site [MS]. The nearest renosterveld work, a Stellenbosch University thesis on the Bot River catchment, modelled erosion against a natural-vegetation baseline of 22 tonnes per square kilometre per year [IC] and found that renosterveld fragments clean polluted runoff from farmland [IC].
 
 The farm could be a place where that question gets measured. The land would be recorded as it is, then recorded again as water-holding work goes in, over several rainy seasons. The protected land next door could serve as a reference for how soils and streams behave without farming. A measured result from the Duiwenhoks catchment would be new evidence for the whole Cape Floristic Region. The first record of the land could sit alongside the environmental plan the 2024 decision requires.
 
@@ -101,7 +101,7 @@ Each of these bodies already has a part in the land and water around the farm:
 
 ## The story and the people of the land
 
-The farm is owned by a company, and its residents live under a community constitution [MS]. The constitution makes the Community Management Panel (CMP) the forum for community matters, and the CMP advises the company's Board [MS]. Its portfolios include Environment and Energy-Water-Waste [MS]. Conservation work on the land would start there. Where it touched title, servitudes or contracts, it would also go to the Board under the shareholders' agreement. Each proposal will say which route it takes. [[documents/community-constitution|The community constitution]] summarises how these bodies work.
+The farm is owned by a company, and its residents live under a community constitution [MS]. The constitution makes the Community Management Panel (CMP) the forum for community matters, and the CMP advises the company's Board [MS]. Its portfolios include Environment and Energy-Water-Waste [MS]. Conservation work on the land would start there. Where it touched title, servitudes or contracts, it would also go to the Board under the [[documents/shareholders-agreement|shareholders' agreement]]. Each proposal will say which route it takes. [[documents/community-constitution|The community constitution]] summarises how these bodies work.
 
 Four days is a short time on a piece of land. The people who live on the farm know it in ways a weekend cannot reach. Where residents read the land differently, their account replaces this one.
 

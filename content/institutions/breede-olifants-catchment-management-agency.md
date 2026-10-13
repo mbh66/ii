@@ -40,7 +40,7 @@ The National Water Act provides for catchment management agencies to manage wate
 
 ## In this district
 
-The Department of Water and Sanitation's 2014 study of the Duiwenhoks estuary lists a representative of the Breede-Overberg agency among those consulted [IC]. In February 2018, during the drought, the Breede-Gouritz agency met Hessequa Municipality, the provincial department of local government and the Eden District Municipality to assess the drought and possible measures [TBV].
+The Department of Water and Sanitation's 2014 study of the Duiwenhoks estuary lists a representative of the Breede-Overberg agency among those consulted [IC]. In February 2018, during the drought, the Breede-Gouritz agency met [[institutions/hessequa-municipality|Hessequa Municipality]], the provincial department of local government and the Eden District Municipality to assess the drought and possible measures [TBV].
 
 ## What is still open
 

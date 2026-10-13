@@ -58,7 +58,7 @@ BirdLife South Africa names invasive alien plants, above all cluster pine, as th
 |---|---|---|
 | Distance from Heidelberg | CapeNature gives about 22 km north-west. Wikipedia gives 20 km north. | CapeNature's figure [IC]. |
 | Area | CapeNature gives 14,200 hectares. The parcels on the family's map add up to about 22,000 hectares. | CapeNature's figure [IC]. The difference is set out on the Neighbours page. |
-| What it is called | CapeNature's brochures call it a Wilderness Area. CapeNature's 2025 statement on the Wilderness Nature Reserve calls it both a Wilderness Area and a Nature Reserve. | Wilderness Area, with Boosmansbos Nature Reserve as an alias. |
+| What it is called | CapeNature's brochures call it a Wilderness Area. CapeNature's 2025 statement on the [[the-land/wilderness-nature-reserve\|Wilderness Nature Reserve]] calls it both a Wilderness Area and a Nature Reserve. | Wilderness Area, with Boosmansbos Nature Reserve as an alias. |
 
 ## What is still open
 

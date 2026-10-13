@@ -19,9 +19,9 @@ Institutions are one of the forms in David Ronfeldt's [TIME framework](https://w
 
 ## Conservation
 
-- [[institutions/capenature|CapeNature]]: the provincial conservation authority that manages Boosmansbos, Grootvadersbosch and the Wilderness Nature Reserve, and runs the stewardship programme for private land.
+- [[institutions/capenature|CapeNature]]: the provincial conservation authority that manages [[the-land/boosmansbos-wilderness-area|Boosmansbos]], Grootvadersbosch and the [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]], and runs the stewardship programme for private land.
 - [[institutions/grootvadersbosch-conservancy|Grootvadersbosch Conservancy]]: the conservancy of private landowners beside Grootvadersbosch and Boosmansbos.
-- [[institutions/helihack-initiative|The HeliHack Initiative]]: the volunteer project that fells invasive pines from helicopters, including in Boosmansbos above the Duiwenhoks Dam.
+- [[institutions/helihack-initiative|The HeliHack Initiative]]: the volunteer project that fells invasive pines from helicopters, including in Boosmansbos above the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]].
 
 ## The Cape Water bond
 

@@ -55,7 +55,7 @@ In early September 2025 a controlled burn on a neighbouring farm got out of hand
 ## What is still open
 
 - The dates for the borehole and for house construction are plans stated in the newsletter [MS].
-- The newsletter does not mention the conditions of the 2024 municipal approval. That approval requires the Overberg Water Board's comment on the water-sharing arrangement before building plans are approved [IC]. See [[documents/municipal-approval-2024|Municipal Approval for Additional Homes (2024)]].
+- The newsletter does not mention the conditions of the 2024 municipal approval. That approval requires the [[institutions/overberg-water|Overberg Water Board]]'s comment on the water-sharing arrangement before building plans are approved [IC]. See [[documents/municipal-approval-2024|Municipal Approval for Additional Homes (2024)]].
 - The residents have not yet replied to this summary.
 
 ## Related

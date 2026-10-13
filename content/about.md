@@ -12,7 +12,7 @@ password: isikhova
 updated: 2026-10-13
 ---
 
-Michael Haupt writes this site with his family, who are considering joining Isikhova & Ironwood as land stewards [MS]. The farm is owned by a company, and its residents live under a community constitution [MS]. The site collects what is known about the land, its past and its present community, and sets out ideas for its future as proposals. A proposal is an idea. It becomes a decision when the people who would carry it out have agreed to it.
+Michael Haupt writes this site with his family, who are considering joining Isikhova & Ironwood as land stewards [MS]. The farm is owned by a company, and its residents live under a [[documents/community-constitution|community constitution]] [MS]. The site collects what is known about the land, its past and its present community, and sets out ideas for its future as proposals. A proposal is an idea. It becomes a decision when the people who would carry it out have agreed to it.
 
 ## How the site works
 

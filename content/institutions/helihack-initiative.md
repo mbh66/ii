@@ -18,7 +18,7 @@ aliases:
 updated: 2026-10-13
 ---
 
-The HeliHack Initiative clears invasive trees from steep, remote mountain catchments in the Western Cape [IC]. A helicopter lowers volunteer climbers, who also work as chainsaw operators, and their equipment on a strop beneath it to places that cannot be reached on foot [IC]. Near the farm, HeliHack teams working with CapeNature have felled invasive pines in the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]], on the slopes above the Duiwenhoks River and its dam [IC].
+The HeliHack Initiative clears invasive trees from steep, remote mountain catchments in the Western Cape [IC]. A helicopter lowers volunteer climbers, who also work as chainsaw operators, and their equipment on a strop beneath it to places that cannot be reached on foot [IC]. Near the farm, HeliHack teams working with CapeNature have felled invasive pines in the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]], on the slopes above the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks River]] and its dam [IC].
 
 The HeliHack Initiative and the Mountain Club of South Africa have not yet been asked to comment on this page. The page names none of the volunteers. The key to the letters in square brackets is on [[about|About This Site]].
 
@@ -48,7 +48,7 @@ CapeNature described the May 2025 operation as the most successful pine removal 
 - Whether HeliHack is now a separate organisation or remains a project of the Mountain Club of South Africa.
 - Who pays for the operations in Boosmansbos, and who pays for follow-up clearing of seedlings after the felling.
 - Whether HeliHack's counts of pines and hectares are checked by anyone outside the project.
-- Whether HeliHack plans further operations above the Duiwenhoks Dam, or in the Wilderness Nature Reserve.
+- Whether HeliHack plans further operations above the Duiwenhoks Dam, or in the [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]].
 
 ## Related
 

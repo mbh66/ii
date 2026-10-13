@@ -44,13 +44,13 @@ The Nature Conservancy describes the bond as a blueprint for restoring priority 
 
 ## In this district
 
-No work by The Nature Conservancy or the Greater Cape Town Water Fund in the Duiwenhoks catchment or the eastern Langeberg has been found in the sources read for this site [MS]. The Duiwenhoks catchment lies outside the Western Cape Water Supply System, which the Fund serves [MS]. [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]] sets out what links the Fund's work to the clearing in Boosmansbos.
+No work by The Nature Conservancy or the Greater Cape Town Water Fund in the Duiwenhoks catchment or the eastern Langeberg has been found in the sources read for this site [MS]. The Duiwenhoks catchment lies outside the Western Cape Water Supply System, which the Fund serves [MS]. [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]] sets out what links the Fund's work to the clearing in [[the-land/boosmansbos-wilderness-area|Boosmansbos]].
 
 ## What is still open
 
 - Whether The Nature Conservancy plans work in any strategic water source area outside the catchments that supply Cape Town, the Langeberg among them.
 - What the Fund's monitoring measures, and how its water figures are calculated.
-- Whether The Nature Conservancy has worked with CapeNature or the HeliHack Initiative in the Langeberg.
+- Whether The Nature Conservancy has worked with CapeNature or the [[institutions/helihack-initiative|HeliHack Initiative]] in the Langeberg.
 
 ## Related
 

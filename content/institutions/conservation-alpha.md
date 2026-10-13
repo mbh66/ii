@@ -43,7 +43,7 @@ No work by Conservation Alpha in the Duiwenhoks catchment or the Langeberg has b
 
 - What Conservation Alpha measures for the Cape Water bond: hectares cleared, regrowth, water added to the dams, or a combination.
 - Whether its methods are published.
-- Whether counts of the kind the HeliHack Initiative keeps for Boosmansbos would meet its standard.
+- Whether counts of the kind the HeliHack Initiative keeps for [[the-land/boosmansbos-wilderness-area|Boosmansbos]] would meet its standard.
 
 ## Related
 

@@ -26,7 +26,7 @@ This page describes the river and the dam as parts of the land around the farm. 
 
 ## The river
 
-The Duiwenhoks and its tributary, the Noukrans, rise on the southern slopes of the Langeberg [IC]. The catchment receives rain throughout the year, with peaks in autumn and spring [IC]. CapeNature warns hikers that the river can flood after heavy rain [IC]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]], declared in July 2025, forms part of the catchment above the dam [IC].
+The Duiwenhoks and its tributary, the Noukrans, rise on the southern slopes of the Langeberg [IC]. The catchment receives rain throughout the year, with peaks in autumn and spring [IC]. [[institutions/capenature|CapeNature]] warns hikers that the river can flood after heavy rain [IC]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]], declared in July 2025, forms part of the catchment above the dam [IC].
 
 The Department of Water and Sanitation gauged the river at a station named "Duiwenhoks River at Broken Hill", about 2 km south-west of the farm, from 1972 to 1984 [IC].
 

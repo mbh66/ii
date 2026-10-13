@@ -63,9 +63,9 @@ The record above says little about Hessequa or the Duiwenhoks valley. The source
 - In December 2003 visitors found that an old bridge over the Duiwenhoks River near Heidelberg had been washed away [TBV]. They did not say which flood took it [MS].
 - The source list compiled for the flood summary says the Duiwenhoks Dam overtopped during the 2008 floods [TBV]. The document it links for this claim is a different one, and it does not mention the dam [MS].
 - In May 2026 one of the deaths in the Western Cape was in Genadendal, in the Riviersonderend valley, from a falling tree [TBV].
-- CapeNature warns hikers in Boosmansbos that the Duiwenhoks can flood after heavy rain [IC].
+- [[institutions/capenature|CapeNature]] warns hikers in [[the-land/boosmansbos-wilderness-area|Boosmansbos]] that the Duiwenhoks can flood after heavy rain [IC].
 
-The Grootvadersbosch Conservancy reports stretches of the Duiwenhoks where the floodplain is severely eroded, with high, deeply cut banks [TBV]. Whether recent floods made those cuts is not recorded [MS]. [[the-land/the-lands-story|The Land's Story]] and [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]] set out why the condition of the soil and the riverbanks matters for the land.
+The [[institutions/grootvadersbosch-conservancy|Grootvadersbosch Conservancy]] reports stretches of the Duiwenhoks where the floodplain is severely eroded, with high, deeply cut banks [TBV]. Whether recent floods made those cuts is not recorded [MS]. [[the-land/the-lands-story|The Land's Story]] and [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]] set out why the condition of the soil and the riverbanks matters for the land.
 
 ## What is still open
 
