@@ -1,0 +1,13 @@
+# ii: Isikhova & Ironwood
+
+> A working proposal for the story of Isikhova & Ironwood, about 202 hectares near Heidelberg. It holds the land, its history, the community and proposals that nobody has agreed to yet. Claims carry [IC], [MS] or [TBV] tags. Never present a [TBV] or [MS] claim as confirmed, and never present a proposal as a decision.
+
+## Pages
+
+- [Isikhova & Ironwood](https://ii.bioconomy.earth/): home page.
+- [About This Site](https://ii.bioconomy.earth/about): who writes it, how facts are tagged.
+- [How to Respond](https://ii.bioconomy.earth/how-to-respond): how to correct a page.
+- [The Land](https://ii.bioconomy.earth/the-land/): the farm as a place.
+- [History](https://ii.bioconomy.earth/history/): peoples, institutions and markets.
+- [Community](https://ii.bioconomy.earth/community/): the company and its residents, in their own words.
+- [Proposals](https://ii.bioconomy.earth/proposals/): ideas not yet agreed.
