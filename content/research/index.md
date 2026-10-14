@@ -9,7 +9,7 @@ date: 2026-10-13
 draft: false
 right_of_reply: not-needed
 password: isikhova
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 This section holds research briefs. A brief gathers what published work says about a question the land raises, and sets out how far that evidence can support a proposal. Proposals in [[proposals/index|Proposals]] cite the brief they rest on, so a reader can check the evidence behind an idea before judging the idea itself.
@@ -27,6 +27,7 @@ A brief records evidence and proposes nothing. Where a brief draws on a longer r
 ## The briefs
 
 - [[research/water-retention-evidence|Evidence on Water and Soil in Fynbos and Renosterveld]]: what research says about clearing invasive plants, keeping natural vegetation, fire and fynbos soils, restoring soil, stabilising eroded banks and building water-holding earthworks, set beside the vegetation mapped on the farm.
+- [[research/restoration-lessons-from-africa|Restoration Lessons from Muonde and Other African Cases]]: what sixteen community-led restoration initiatives in sub-Saharan Africa, starting with the Muonde Trust in Zimbabwe, show about sequence, records, land rights and money, and where they differ from the farm.
 
 ## Related
 

@@ -230,7 +230,7 @@ plugins:
   - source: ./plugins/custom-footer
     enabled: true
     options:
-      copyrightHolder: Michael Haupt & Associates
+      copyrightHolder: Haupt & Associates
       links:
     layout:
       position: footer

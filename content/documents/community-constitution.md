@@ -18,7 +18,7 @@ updated: 2026-10-13
 ---
 
 > [!note] Not yet agreed with the company
-> This summary has not yet been shown to the company or its Community Management Panel. The constitution asks that public statements about the community have the Panel's prior agreement on content and timing [MS], so this page remains 'not confirmed' until the Panel has agreed the text.
+> This summary has not yet been shown to the company or its Community Management Panel. The constitution asks that public statements about the community have the Panel's prior agreement on content and timing [MS], so this page remains password protected and 'not confirmed' until the Panel has agreed the text.
 
 The constitution is the rulebook for daily life at Isikhova & Ironwood Community Farm (IICF), the community on the land owned by Isikhova & Ironwood Forest Community (Pty) Ltd [MS]. The version summarised here is the 10th edition, dated 31 October 2025 [MS]. It covers community matters. Legal matters sit in the [[documents/shareholders-agreement|Shareholders' Agreement]] and the company's Memorandum of Incorporation, and where they conflict with the constitution, those legal documents win [MS].
 
