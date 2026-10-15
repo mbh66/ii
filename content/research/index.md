@@ -31,7 +31,7 @@ A brief records evidence and proposes nothing. Where a brief draws on a longer r
 
 ## Related
 
-- [[index|Isikhova & Ironwood]]
+- [[ii/research/index|Isikhova & Ironwood]]
 - [[proposals/index|Proposals]]
 - [[about|About This Site]]
 - [[how-to-respond|How to Respond]]

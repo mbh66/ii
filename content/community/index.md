@@ -18,5 +18,5 @@ Pages describe roles, rules and practices. Individual members are not named, and
 
 ## Related
 
-- [[index|Isikhova & Ironwood]]
+- [[ii/community/index|Isikhova & Ironwood]]
 - [[how-to-respond|How to Respond]]

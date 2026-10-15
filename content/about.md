@@ -35,5 +35,5 @@ The site borrows its practices from the [Ward 2 Development Forum register](http
 
 ## Related
 
-- [[index|Isikhova & Ironwood]]
+- [[ii/index|Isikhova & Ironwood]]
 - [[how-to-respond|How to Respond]]

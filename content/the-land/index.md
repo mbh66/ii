@@ -33,7 +33,7 @@ The farm is portion 10 of the farm Broken Hill No. 88 [IC]. It lies at the foot 
 
 ## Related
 
-- [[index|Isikhova & Ironwood]]
+- [[ii/the-land/index|Isikhova & Ironwood]]
 - [[history/index|History]]
 - [[community/index|Community]]
 - [National Water Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-water-act): written for Ward 2; the Act applies here too

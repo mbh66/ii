@@ -23,7 +23,7 @@ This wiki is a working document showing our understanding of the potential of th
 ## Start here
 
 - [[the-land/the-lands-story|The Land's Story]]: the story we believe the land wants to tell, as well as the open questions that come with it.
-- The Family's Story: the life paths each of the individuals have followed to culminate in this document coming together.
+- [[stewards/index|The Family's Story]]: the life paths each of the individuals have followed to culminate in this document coming together.
 
 ## Sections
 

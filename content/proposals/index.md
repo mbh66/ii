@@ -28,5 +28,5 @@ A proposal is a high-level discussion paper for unlocking the land's potential. 
 
 ## Related
 
-- [[index|Isikhova & Ironwood]]
+- [[ii/proposals/index|Isikhova & Ironwood]]
 - [[how-to-respond|How to Respond]]

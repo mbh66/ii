@@ -27,6 +27,6 @@ Facts carry [MS] when they come from the company's own documents and [IC] when t
 
 ## Related
 
-- [[index|Isikhova & Ironwood]]
+- [[ii/documents/index|Isikhova & Ironwood]]
 - [[community/index|Community]]
 - [[how-to-respond|How to Respond]]

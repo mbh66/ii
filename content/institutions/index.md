@@ -46,7 +46,7 @@ Each page describes an institution only through what it has said or done, and ne
 
 ## Related
 
-- [[index|Isikhova & Ironwood]]
+- [[ii/institutions/index|Isikhova & Ironwood]]
 - [[the-land/index|The Land]]
 - [[history/index|History]]
 - [[how-to-respond|How to Respond]]
