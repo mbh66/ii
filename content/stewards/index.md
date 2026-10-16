@@ -6,7 +6,7 @@ tags:
   - stewards
   - lang/en
 date: 2026-10-14
-draft: true
+draft: false
 right_of_reply: pending
 password: isikhova
 aliases:
@@ -45,7 +45,7 @@ Robert taught himself to build in relation to the land [MS]. He has also learnt 
 
 ## Coming back to the land
 
-In October 2026 Michael camped on the farm [MS]. The family's proposal to the company will be set out under [[proposals/index|Proposals]] once it has been put to the company.
+In October 2026 the siblings camped on the farm [MS]. The family's proposal to the company will be set out under [[proposals/index|Proposals]] once it has been put to the company.
 
 ## What is still open
 

@@ -35,6 +35,14 @@ Neither source explains the difference in size. SANBI's figures are from its 202
 
 The Centre for Environmental Rights lists the Breede, Gouritz, Doring, Duiwenhoks and Naroo rivers as flowing from the Langeberg area, and Swellendam, Barrydale and Heidelberg among the towns it supplies [TBV]. It counts one national park, three mountain catchment areas, nine forest protected areas and three provincial nature reserves inside the area [TBV]. The protected areas it names include Bontebok National Park, Grootvadersbosch Nature Reserve and the Boosmansbos Wilderness Area [TBV].
 
+### Neighbouring catchment areas
+
+Stilbaai (1,200 km² - east): https://mghydro.com/app/shared/DF06B0
+Gouritz (45,000 km² - east): https://mghydro.com/app/shared/5842ED
+Puntjie (1,200 km² - centre): https://mghydro.com/app/shared/D0E795
+Witsand (13,000 km² - west): https://mghydro.com/app/shared/717349
+
+Total (61,000 km²): https://mghydro.com/app/shared/F24599
 ## Condition and threats
 
 The Centre for Environmental Rights reports that up to 69 percent of the area's wetland ecosystems and 68 percent of its river ecosystems are critically endangered [TBV]. It names alien plants, climate change and fire as the main threats [TBV].

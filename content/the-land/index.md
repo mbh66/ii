@@ -12,13 +12,20 @@ password: isikhova
 updated: 2026-10-13
 ---
 
-This section describes the farm as a piece of land: where it sits, its water, vegetation and wildlife, its fire risk and its neighbours. The farm covers about 202 hectares near Heidelberg [MS].
+Isikhova & Ironwood is about 202 hectares of mountain land on the Duiwenhoks River near Heidelberg [MS]. We, the family hoping to become part of her stewardship team, know her as a living being who wants to be in relationship with conscious people. For a long time she has held a story in her water, her soil, her fynbos and the marks of fire, and we believe it opens only to stewards who listen before they act. 
 
-Each page in this section states where its facts come from. Measurements and ecological claims rest on surveys, maps or official records. A claim carries [IC] only when two independent sources agree or an official record confirms it. Pages that describe a neighbour or a public body say whether that party has replied.
+Those who judge her by what she could produce will see grazing and water. We have come to ask what she has been keeping, and to write it down so that her story is told for generations after us. [[the-land/the-lands-story|The Land's Story]] sets out what we have heard so far. The pages below begin the listening: where she lies, how her water moves, what grows and lives on her, how fire has shaped her, and who her neighbours are.
 
-## Where the farm sits
+Each page in this section states where its facts come from. Measurements and ecological claims come from surveys, maps or official records. A claim carries [IC] only when two independent sources agree or an official record confirms it. Pages that describe a neighbour or a public body say whether that party has approved the content.
 
-The farm is portion 10 of the farm Broken Hill No. 88 [IC]. It lies at the foot of the Langeberg, about 9 km north of Heidelberg and about 700 metres downstream of the Duiwenhoks Dam [MS]. Protected mountain land lies to its north and west. The farm shares a boundary with a parcel of the Boosmansbos Wilderness Area [TBV], and the Wilderness Nature Reserve, declared in July 2025 [IC], lies about 100 metres away [MS]. At least a fifth of the land within 2 km of the farm is protected, and two undeveloped neighbouring portions add about a tenth more [MS]. [[the-land/neighbours|Neighbours and the Conservation Land Around the Farm]] gives the figures.
+## Location
+
+The farm is portion 10 of the farm Broken Hill No. 88 [IC]. It lies at the foot of the Langeberg, about 9 km north of Heidelberg and about 700 metres downstream of the Duiwenhoks Dam [MS]. Protected mountain land lies to its north and west. The farm shares a boundary with a parcel of the Boosmansbos Wilderness Area [TBV], and the Wilderness Nature Reserve, declared in July 2025 [IC], lies about 100 metres away [MS]. At least a fifth of the land within 2 km of the farm is protected, and two undeveloped neighbouring portions add about a tenth more [MS]. [[the-land/neighbours|Neighbours and the Conservation Land Around the Farm]] provides the precise figures.
+
+![[ii-in-context.jpg]]
+<center>The Land in Context</center>
+
+For an interactive map, see https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yILVHrx4tfyZ1oys
 
 ## Pages in this section
 

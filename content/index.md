@@ -31,8 +31,8 @@ This wiki is a working document showing our understanding of the potential of th
 - [[history/index|History]]: the peoples, institutions, and market forces that shaped the land and the district.
 - [[institutions/index|Institutions]]: the public bodies and local organisations that look after the land, water, and protected areas around the farm.
 - [[community/index|Community]]: the company and the people who live on the farm, in their own words.
-- [[research/index|Research]]: briefs that gather the evidence behind the proposals, as well ass highlight what still needs to be explored.
-- [[proposals/index|Proposals]]: big ideas for the land that will require much further thought and exploration. None of these ideas are set in stone and they're intended as conversation starters for the Community Management Panel (CMP).
+- [[research/index|Research]]: briefs that gather the evidence behind the proposals, as well as highlight what still needs to be explored.
+- [[proposals/index|Proposals]]: big ideas for the land that will require much further thought and exploration. None of these ideas are set in stone, and they're intended as conversation starters for the Community Management Panel (CMP).
 
 ## Status
 
