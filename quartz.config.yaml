@@ -234,6 +234,8 @@ plugins:
     enabled: true
     options:
       copyrightHolder: Haupt & Associates
+      licence: null
+      notice: "The words and arrangement on this site are ours. What they describe belongs to the land and to the people who have known it longer than we have."
       links:
     layout:
       position: footer

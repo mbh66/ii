@@ -26,6 +26,12 @@ The site borrows its practices from the [Ward 2 Development Forum register](http
 - History pages are grouped as Tribes, Institutions and Markets, three of the four forms in David Ronfeldt's [TIME framework](https://wiki.bioconomy.earth/frameworks/time-framework), the grouping the W2DF register uses for its [Valley History](https://df.valleyofgrace.co.za/history/).
 - Individual members of the Community Management Panel (CMP) are not named, but the siblings who prepared this site are, including their [[stewards/index|history]]. Contact details, the financial terms of the company's agreements, and the location of heritage sites do not appear. All pages are behind a password to ensure the site isn't indexed by search engines.
 
+## Who the knowledge belongs to
+
+The Haupt siblings wrote and compiled this site, and we hold copyright in that work. Much of what it records came from somewhere else: from the land itself, from the people who have lived and worked on it, and from those whose history runs through this part of the Breede and Langeberg country. That knowledge was never ours to own. Where we know a source, we name it. Where we have recorded something incorrectly or without proper credit, we want to hear about it, and we will correct or remove it.
+
+Please don’t republish material from this site without asking. It is shared with people taking part in the Isikhova & Ironwood conversation, and some of it concerns people and matters covered by the community’s constitution.
+
 > [!info] What the letters in square brackets mean
 > Facts on this site are followed by a tag that shows where they come from.
 >
