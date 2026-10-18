@@ -56,7 +56,7 @@ The approved Site Development Plan works well as a homestead. It places seven ho
 
 A [Water Retention Landscape](https://wiki.bioconomy.earth/concepts/water-retention-landscapes) is land whose soil, plants and earthworks catch rain, hold it and release it slowly. This proposal takes the water that leaves the pond by the cabin and gives it the longest path the ground allows before it reaches the gully. It runs west along the shelf through three ponds, as far as Unit 3. Then it doubles back east along a lower contour to the head of the stuffed reach.
 
-![[the-houses-water-retention.png]]
+![[Water Retention Landscape.jpg]]
 
 ### The water's path
 

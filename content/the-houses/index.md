@@ -159,7 +159,7 @@ The clustering condition in the municipal approval letter asks for units grouped
 
 To explore an interactive version, visit https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yILVHrx4tfyZ1oys. Look for the folder called *Plot Layout Options* and then toggle visibility for each of the options below the folder, A, B, or C.
 
-![[Layout D 1.jpg]]
+![[Layout D.jpg]]
 
 ## Related
 

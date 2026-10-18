@@ -44,7 +44,7 @@ The farm lies at the foot of the Langeberg, about 9 kilometres north of Heidelbe
 
 The source of the Duiwenhoks River is in the Boosmansbos Wilderness Area [IC], and the farm lies about 700 metres downstream of the Duiwenhoks Dam [MS]. 
 
-![[duiwenhoks-catchment-area.jpg]]
+![[duiwenhoks-dam-catchment-area.jpg]]
 <center>Duiwenhoks Dam Catchment Area, a watershed of 160 km²</center>
 
 For a detailed map and data report of the catchment area above the dam, see https://mghydro.com/app/shared/2068C3

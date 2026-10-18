@@ -44,7 +44,7 @@ Witsand (13,000 km² - west): https://mghydro.com/app/shared/717349
 
 Total (61,000 km²): https://mghydro.com/app/shared/F24599
 
-![[langeberg-catchment 1.jpg]]
+![[langeberg-catchment.jpg]]
 <center>The farm in relation to the Langeberg Water Source Area</center>
 
 ## Condition and threats
