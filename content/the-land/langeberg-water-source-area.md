@@ -43,6 +43,10 @@ Puntjie (1,200 km² - centre): https://mghydro.com/app/shared/D0E795
 Witsand (13,000 km² - west): https://mghydro.com/app/shared/717349
 
 Total (61,000 km²): https://mghydro.com/app/shared/F24599
+
+![[langeberg-catchment 1.jpg]]
+<center>The farm in relation to the Langeberg Water Source Area</center>
+
 ## Condition and threats
 
 The Centre for Environmental Rights reports that up to 69 percent of the area's wetland ecosystems and 68 percent of its river ecosystems are critically endangered [TBV]. It names alien plants, climate change and fire as the main threats [TBV].

@@ -9,10 +9,10 @@ date: 2026-10-13
 draft: false
 right_of_reply: not-needed
 password: isikhova
-updated: 2026-10-13
+updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is about 202 hectares of mountain land on the Duiwenhoks River near Heidelberg [MS]. We, the family hoping to become part of her stewardship team, know her as a living being who wants to be in relationship with conscious people. For a long time she has held a story in her water, her soil, her fynbos and the marks of fire, and we believe it opens only to stewards who listen before they act. 
+Isikhova & Ironwood is about 200 hectares of mountain land on the Duiwenhoks River near Heidelberg [IC]. We, the family hoping to become part of her stewardship team, know her as a living being who wants to be in relationship with conscious people. For a long time she has held a story in her water, her soil, her fynbos and the marks of fire, and we believe it opens only to stewards who listen before they act. 
 
 Those who judge her by what she could produce will see grazing and water. We have come to ask what she has been keeping, and to write it down so that her story is told for generations after us. [[the-land/the-lands-story|The Land's Story]] sets out what we have heard so far. The pages below begin the listening: where she lies, how her water moves, what grows and lives on her, how fire has shaped her, and who her neighbours are.
 

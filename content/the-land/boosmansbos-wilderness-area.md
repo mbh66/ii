@@ -21,6 +21,9 @@ The Boosmansbos Wilderness Area covers 14,200 hectares of the Langeberg, about 2
 
 CapeNature has not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
+![[Boosmansbos Wilderness Area.jpg]]
+<center>Boosmansbos Wilderness Area in relation to the farm</center>
+
 ## How it is protected
 
 | Date | Event | Tag |

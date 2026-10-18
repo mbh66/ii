@@ -18,7 +18,7 @@ aliases:
   - Five-year plan
   - Measuring the land
   - Water retention trials
-updated: 2026-10-14
+updated: 2026-10-18
 ---
 
 > **This idea is not yet agreed.** The prospective stewards wrote it in October 2026. Nobody else has been asked: not the company, its Community Management Panel (CMP) or its Board, not the residents, and not CapeNature, the Greater Cape Town Water Fund, The Nature Conservancy, any university or the owners of neighbouring land. It will be put to the company through the CMP, after the company has responded to [[the-land/the-lands-story|The Land's Story]].
@@ -34,7 +34,7 @@ updated: 2026-10-14
 
 ## The goal
 
-> Spend the first five years learning how water and soil behave on the farm, with measurements good enough to share, while the community settles its homes and its way of working, and only then take the results to neighbours, CapeNature and water funders.
+> Spend the first five years learning how water and soil behave on the farm, and showing what a properly planned Water Retention Landscape looks like on it, with measurements good enough to share, while the community settles its homes and its way of working, and only then take the results to neighbours, CapeNature and water funders.
 
 ## Why the land needs it
 
@@ -56,11 +56,13 @@ The idea has four strands. The first two would run for the whole five years. The
 
 **Years 3 to 5: small trials, each paired with an untreated plot.** Once two years of records exist, the community could try small, hand-built water-holding work on a few plots: contour bunds, brush packing on bare ground, and small check structures in an eroding gully. Each trial would sit beside a plot left alone, so the difference can be measured. Trials would stay out of the area the 2024 decision marks as botanically sensitive, would avoid the river and its banks until any authorisation they need is confirmed, and would be planned with the farm's fire plan. Every trial would go to the CMP for sign-off first, as the constitution asks for earthworks.
 
+**Around the homes, the trials would form one planned landscape.** [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]] sets out three ponds stepping down from the pond by the cabin, swales across the slope below the homes, and a stuffed stretch of the dry gully, built in stages and each measured against the record before it. Together they would show what a Water Retention Landscape looks like on this land, as well as testing its parts one by one.
+
 **The record would belong to the community.** Data would be kept on the farm, in a form residents can read, with copies held by any research partner under a written agreement.
 
 ### Strand 2: settle the community (years 1 to 5)
 
-While the land is being recorded, the prospective stewards would build within the approved Site Development Plan and the constitution, and learn how the community works through its CMP. The measuring itself could become part of community life: shared rain readings, seasonal walks to the photo points, and a yearly look at the results at the annual general meeting. New members would learn the record as part of their induction.
+While the land is being recorded, the prospective stewards would build within the approved Site Development Plan and the constitution, apart from the Main Dwelling, which [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]] proposes moving beside the ponds, and learn how the community works through its CMP. The measuring itself could become part of community life: shared rain readings, seasonal walks to the photo points, and a yearly look at the results at the annual general meeting. New members would learn the record as part of their induction.
 
 ### Strand 3: a research partnership with a South African university (from year 1)
 
@@ -129,6 +131,7 @@ If you live on or near the farm, or work with any of the bodies named here, your
 
 - [[proposals/index|Proposals]]
 - [[the-land/the-lands-story|The Land's Story]]
+- [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]]
 - [[research/water-retention-evidence|Evidence on Water and Soil in Fynbos and Renosterveld]]
 - [[research/restoration-lessons-from-africa|Restoration Lessons from Muonde and Other African Cases]]
 - [[the-land/neighbours|Neighbours and the Conservation Land Around the Farm]]

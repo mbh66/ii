@@ -14,10 +14,10 @@ password: isikhova
 aliases:
   - The Story of the Land
   - Land's Story
-updated: 2026-10-13
+updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is about 202 hectares on the Duiwenhoks River near Heidelberg, Western Cape [MS]. The river drains the Langeberg, one of South Africa's 22 strategic water source areas, and runs south to the sea [IC]. After four days camping on the farm in October 2026, the prospective stewards came away with a distinct impression that the land wants to be part of the conservation story of its river and its mountains [MS]. This page lays out that story, with the understanding that it comes from only four days on the land. It's included here so that those with a longer connection to the land and the company that owns it can test it against what they already know.
+Isikhova & Ironwood is about 200 hectares on the Duiwenhoks River near Heidelberg, Western Cape [IC]. The river drains the Langeberg, one of South Africa's 22 strategic water source areas, and runs south to the sea [IC]. After four days camping on the farm in October 2026, the prospective stewards came away with a distinct impression that the land wants to be part of the conservation story of its river and its mountains [MS]. This page lays out that story, with the understanding that it comes from only four days on the land. It's included here so that those with a longer connection to the land and the company that owns it can test it against what they already know.
 
 
 > [!NOTE] This is an interpretation of the land's story by the prospective stewards.

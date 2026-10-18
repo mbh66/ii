@@ -24,6 +24,9 @@ The Duiwenhoks River rises in the Langeberg, in the [[the-land/boosmansbos-wilde
 
 This page describes the river and the dam as parts of the land around the farm. What water use the river supports on the farm itself concerns the company, and this site will say nothing on it until the company has replied. CapeNature, the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, Overberg Water and the Duiwenhoks irrigation board have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
+![[Duiwenhoks Dam River.jpg]]
+<center>Duiwenhoks Dam & River in relation to the farm</center>
+
 ## The river
 
 The Duiwenhoks and its tributary, the Noukrans, rise on the southern slopes of the Langeberg [IC]. The catchment receives rain throughout the year, with peaks in autumn and spring [IC]. [[institutions/capenature|CapeNature]] warns hikers that the river can flood after heavy rain [IC]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]], declared in July 2025, forms part of the catchment above the dam [IC].

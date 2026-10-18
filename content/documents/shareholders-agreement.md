@@ -12,13 +12,13 @@ right_of_reply: pending
 password: isikhova
 aliases:
   - SHA
-updated: 2026-10-13
+updated: 2026-10-17
 ---
 
 > [!note] Not yet agreed with the company
 > This summary has not yet been shown to the company or its Board. The agreement asks its parties to agree the wording and timing of any public statement about confidential matters [MS], so this page, as with all other pages, remains password protected until the company has agreed the text.
 
-The shareholders' agreement (SHA) is the legal contract between Isikhova & Ironwood Forest Community (Pty) Ltd and its shareholders [MS]. The company owns the farm, just under 202 hectares in the Heidelberg district of the Western Cape [MS]. The agreement sets out how the company makes decisions, who may build a home and where, and how shares change hands. The version summarised here is the final text dated 31 October 2025 [MS]. Daily community life is covered separately by the [[documents/community-constitution|Community Constitution]].
+The shareholders' agreement (SHA) is the legal contract between Isikhova & Ironwood Forest Community (Pty) Ltd and its shareholders [MS]. The company owns the farm [MS], about 200 hectares in the Heidelberg district of the Western Cape [IC]. The agreement sets out how the company makes decisions, who may build a home and where, and how shares change hands. The version summarised here is the final text dated 31 October 2025 [MS]. Daily community life is covered separately by the [[documents/community-constitution|Community Constitution]].
 
 The agreement also sets out how the company is funded, how the cost of building a home is recorded, how shares are valued and how the money from a sale is divided. This site does not publish the financial terms of the company's agreements, so those parts are left out of this summary.
 

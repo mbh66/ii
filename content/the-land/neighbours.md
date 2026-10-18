@@ -15,14 +15,17 @@ aliases:
   - Neighbours
   - Surrounding conservation land
   - Broken Hill 88/10
-updated: 2026-10-13
+updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is portion 10 of the farm Broken Hill No. 88, in the [[institutions/hessequa-municipality|Hessequa Municipality]] north of Heidelberg [IC]. It covers about 202 hectares [MS]. The farm lies at the foot of the Langeberg, where mountain land protected for its water and its plants meets the farmland of the Duiwenhoks valley [MS]. On its north-western edge it shares a boundary with a parcel of the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]] [TBV]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]] lies about 100 metres away, and the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] about 700 metres upstream [MS]. Two of the neighbouring portions, which share about a third of the farm's boundary, are undeveloped [MS].
+Isikhova & Ironwood is portion 10 of the farm Broken Hill No. 88, in the [[institutions/hessequa-municipality|Hessequa Municipality]] north of Heidelberg [IC]. It covers about 200 hectares [IC]. The farm lies at the foot of the Langeberg, where mountain land protected for its water and its plants meets the farmland of the Duiwenhoks valley [MS]. On its north-western edge it shares a boundary with a parcel of the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]] [TBV]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]] lies about 100 metres away, and the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] about 700 metres upstream [MS]. Two of the neighbouring portions, which share about a third of the farm's boundary, are undeveloped [MS].
 
 The neighbours named on this page are pieces of land, identified by their Surveyor General farm names and portion numbers. The page names no owners. The owners of neighbouring land, CapeNature and the Duiwenhoks [[institutions/duiwenhoks-irrigation-board|irrigation board]] have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
-The map that accompanies this page can be found here: https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yILVHrx4tfyZ1oys?usp=sharing
+The map that accompanies this page can be found here: https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yILVHrx4tfyZ1oys
+
+![[Neighbours.jpg]]
+<center>Land surrounding the farm that isn't a nature reserve</center>
 
 ## How the figures were measured
 
@@ -34,7 +37,7 @@ The family measured the distances, areas and boundary lengths on this page from 
 |---|---|
 | Surveyor General description | Broken Hill No. 88, portion 10 [IC] |
 | Municipality | Hessequa Municipality; Swellendam administrative region in the Surveyor General's records [IC] |
-| Area | About 202 hectares [MS] |
+| Area | 199.66 hectares in the Surveyor General's records [IC] |
 | Boundary length | About 7.6 km [MS] |
 | Distance from Heidelberg | About 9 km to the north [MS] |
 | Distance from the Duiwenhoks Dam property | About 700 metres to the north-east, upstream of the farm [MS] |
@@ -93,7 +96,7 @@ The protected land north of the farm feeds the Duiwenhoks Dam [IC]. The dam hold
 
 | Question | What the sources say | Where this page stands |
 |---|---|---|
-| The farm's area | The company's documents give just under 202 hectares. The Surveyor General's cadastral layer gives 199.66 hectares. | About 202 hectares [MS], pending the title deed. |
+| The farm's area | The company's documents give just under 202 hectares. The Surveyor General's cadastral layer gives 199.66 hectares. | About 200 hectares [IC], from the Surveyor General's records as shown in CapeFarmMapper. The title deed has not been seen. |
 | The date the reserve was declared | The family's copy of the Provincial Gazette, No. 9102, is dated 11 July 2025. CapeNature's announcement gives 17 July 2025. | July 2025 [IC]. |
 | The size of Portion 7 of Klip Hoogte No. 83 | CapeNature's notice gives 117.6304 hectares, on diagram 1831/2023. The older cadastral outline on the family's map gives about 96 hectares. | The notice [IC]. The family's map shows the older outline. |
 | Klip Hoogte No. 83/1 | The family's map marks it as part of the Wilderness Nature Reserve. The notice lists only Portions 7 and 15. | Left out of the reserve's figures. |
@@ -130,3 +133,4 @@ The protected land north of the farm feeds the Duiwenhoks Dam [IC]. The dam hold
 - Department of Water and Sanitation: [H Drainage Region state of dams](https://www.dws.gov.za/Hydrology/Weekly/DrainageWeek.aspx?region=H). Full supply capacity of the Duiwenhoks Dam.
 - Department of Water and Sanitation: [Water quality monitoring stations, WMA16](https://www.dws.gov.za/iwqs/wms/data/WMA16_reg_WMS_nobor.htm). The gauging station at Broken Hill and its dates.
 - Surveyor General: cadastral outlines and areas for the parcels listed, as loaded in the family's map of the surrounding farms.
+- Western Cape Department of Agriculture: [CapeFarmMapper](https://gis.elsenburg.com/apps/cfm/). The farm's Surveyor General record and its extent of 199.66 hectares, consulted on 17 October 2026.

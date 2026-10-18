@@ -20,6 +20,9 @@ The Wilderness Nature Reserve covers about 643.6 hectares on two portions of the
 
 The page names no landowners. CapeNature and the owners of the reserve land have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
+![[Wilderness Nature Reserve.jpg]]
+<center>Wilderness Nature Reserve in relation to the farm</center>
+
 ## What the declaration covers
 
 The reserve was declared under the National Environmental Management: Protected Areas Act of 2003 [IC]. It is made up of Portion 7 (Klein Kamp), measuring 117.6304 hectares, and Portion 15 (Wilderness), measuring 526.0115 hectares, of the farm Klip Hoogte No. 83 [IC]. About 615 hectares of the reserve are designated a Priority Biodiversity Area [IC].

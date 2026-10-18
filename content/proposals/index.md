@@ -9,7 +9,7 @@ date: 2026-10-13
 draft: false
 right_of_reply: not-needed
 password: isikhova
-updated: 2026-10-14
+updated: 2026-10-18
 ---
 
 A proposal is a high-level discussion paper for unlocking the land's potential. None of the proposals have been formally presented and so should be considered as nothing more than thought pieces. Each proposal gets one page. The page opens with a notice that says who has been asked, who has not, and when the idea will be put to the people who would carry it out.
@@ -25,6 +25,8 @@ A proposal is a high-level discussion paper for unlocking the land's potential. 
 ## The ideas
 
 - [[proposals/first-five-years-on-the-land|The First Five Years on the Land]]: record the land and run small measured trials of water-holding work while the community settles, partner with a South African university, then share results with neighbors, CapeNature, and water funders. Not yet put forward to the company.
+- [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]]: lay out the land around the homes as a planned Water Retention Landscape: three ponds stepping west from the pond by the cabin as far as Unit 3, a swale doubling back east to a stuffed stretch of the dry gully, and the Main Dwelling moved beside the middle pond, close to the homes. Not yet put forward to the company.
+- [[the-houses/index|The Houses]]: four draft layouts for where the six homes and the Main Dwelling could stand, each a concept page in its own section. Not yet put forward to the company.
 
 ## Related
 

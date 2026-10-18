@@ -1,6 +1,6 @@
 ---
 title: "Isikhova & Ironwood"
-description: "A working proposal for the story of Isikhova & Ironwood, about 202 hectares near Heidelberg, written by a family considering joining as land stewards. It holds the land, its history, the community and the ideas on the table."
+description: "A working proposal for the story of Isikhova & Ironwood, about 200 hectares near Heidelberg, written by a family considering joining as land stewards. It holds the land, its history, the community and the ideas on the table."
 type: page
 tags:
   - site
@@ -9,10 +9,10 @@ date: 2026-10-13
 draft: false
 right_of_reply: not-needed
 password: isikhova
-updated: 2026-10-13
+updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is a roughly 202-hectare parcel of land in the mountains above Heidelberg, Western Cape [MS]. Members of the Haupt family are considering joining it as land stewards [MS]. 
+Isikhova & Ironwood is a parcel of about 200 hectares in the mountains above Heidelberg, Western Cape [IC]. Members of the Haupt family are considering joining it as land stewards [MS]. 
 
 This wiki is a working document showing our understanding of the potential of the land, covering: 
 - Where she's located and what happens on land surrounding her, 
@@ -32,6 +32,7 @@ This wiki is a working document showing our understanding of the potential of th
 - [[institutions/index|Institutions]]: the public bodies and local organisations that look after the land, water, and protected areas around the farm.
 - [[community/index|Community]]: the company and the people who live on the farm, in their own words.
 - [[research/index|Research]]: briefs that gather the evidence behind the proposals, as well as highlight what still needs to be explored.
+- [[the-houses/index|The Houses]]: four draft layouts for the six homes and the Main Dwelling, how they were drawn from the farm's contours, and how they compare.
 - [[proposals/index|Proposals]]: big ideas for the land that will require much further thought and exploration. None of these ideas are set in stone, and they're intended as conversation starters for the Community Management Panel (CMP).
 
 ## Status

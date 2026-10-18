@@ -22,6 +22,10 @@ The dominant tree of the forest is the ironwood [IC]. The sources checked for th
 
 CapeNature has not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
+![[Grootvadersbosch Nature Reserve.jpg]]
+<center>Boosmansbos and Grootvadersbosch Nature Reserve in relation to the farm</center>
+
+
 ## The forest
 
 CapeNature describes the forest as Knysna-type high forest, set among mountain fynbos [IC]. Most of the 35 tree species typical of such forest grow here, among them stinkwood, yellowwood, red alder and ironwood [IC]. In neighbouring Boosmansbos, CapeNature notes that the forests grow on isolated pockets of Bokkeveld shale, where the mountains around them are mostly sandstone [IC].
