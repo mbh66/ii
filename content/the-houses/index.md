@@ -32,6 +32,8 @@ updated: 2026-10-19
 
 This section sets out where the six homes and the Main Dwelling could stand. Layout D follows the Site Development Plan the municipality approved, and is the starting point. Layouts A, B and C are alternatives the family drew from the farm's contours before it had been able to fully interpret the plan. They differ only in how far apart the homes are, and they show what moving away from the plan would gain and what it would cost in ground, effort and shelter.
 
+Also see [[house-plans|House Plans]] for mockups of what each house could look like.
+
 ## Layout D is the starting point
 
 - The Shareholders' Agreement defines the Site Development Plan as the plan Hessequa Municipality approved in 2025, and attaches it as Annexures 1 and 2 [MS]. The plan marks where each of the seven dwellings stands [MS].
@@ -174,6 +176,7 @@ To explore an interactive version, visit https://earth.google.com/earth/d/1Z2zXb
 
 ## Related
 
+- [[house-plans|House Plans]]
 - [[proposals/index|Proposals]]
 - [[proposals/first-five-years-on-the-land|The First Five Years on the Land]]
 - [[documents/municipal-approval-2024|Municipal Approval for Additional Homes (2024)]]
