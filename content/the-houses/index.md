@@ -16,7 +16,7 @@ aliases:
   - House layouts
   - Plot layouts
 links: []
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 > **These layouts are not agreed.** The prospective stewards drew them in October 2026 from public contour data, and after only a brief weekend visit walking the plots. Nobody else has been asked: not the company, its Community Management Panel (CMP) or its Board, and not the residents. They will be put to the company through the CMP, after a more detailed discussion.
@@ -107,6 +107,17 @@ Alternatives drawn before the plan was seen:
 - [[the-houses/layout-a-clustered|Layout A: Clustered on the Knoll]]: homes at least 100 metres apart, all six on the flat top of the knoll.
 - [[the-houses/layout-b-spread|Layout B: Spread Along the Zone]]: homes at least 150 metres apart, four on the knoll and two down the north-west slope.
 - [[the-houses/layout-c-widest-spread|Layout C: Widest Spread]]: homes at least 185 metres apart, the widest spacing that fits six plots in the zone, with the Main Dwelling beside the Community Resources plot.
+
+## House plans
+
+[[the-houses/house-plans|House Plans: Two Homes in Two Halves]] sets out six draft floor plans for the Haupt family's two homes, each of 200 m² in two self-contained halves, and how each plan would sit on Unit 1, Unit 3 and the Main Dwelling. The plans are drafts for discussion within the family.
+
+- [[the-houses/plan-1-long-house|Plan 1: The Long House]]
+- [[the-houses/plan-2-staggered-wings|Plan 2: Two Staggered Wings]]
+- [[the-houses/plan-3-stepped-house|Plan 3: The Stepped House]]
+- [[the-houses/plan-4-loft-house|Plan 4: The Loft House]]
+- [[the-houses/plan-5-stacked-house|Plan 5: The Stacked House]]
+- [[the-houses/plan-6-sunspace-house|Plan 6: The Sunspace House]]
 
 ## How they compare
 
