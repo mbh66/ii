@@ -1,6 +1,6 @@
 ---
 title: "Plan 9: The Shared Kitchen and Patio"
-description: "A draft plan, built from Plan 7, for a 200 m² family home in two halves with two bedrooms each, one shared kitchenette, and a later patio open to the sky with an outdoor kitchen and dining terrace."
+description: A draft plan, built from Plan 7, for a 200 m² family home in two halves with two bedrooms each, one shared kitchenette, and a later patio open to the sky with an outdoor kitchen and dining terrace.
 type: concept
 tags:
   - concept
@@ -9,10 +9,12 @@ tags:
   - theme/governance
   - lang/en
 date: 2026-10-20
-draft: true
+draft: false
 right_of_reply: pending
 password: isikhova
-aliases: [Patio plan, Shared kitchen plan]
+aliases:
+  - Patio plan
+  - Shared kitchen plan
 links: []
 updated: 2026-10-20
 ---
@@ -135,6 +137,7 @@ The site figures come from [[the-houses/layout-d-site-development-plan|Layout D]
 - [[the-houses/plan-6-sunspace-house|Plan 6: The Sunspace House]]
 - [[the-houses/plan-7-twin-mezzanine-house|Plan 7: The Twin Mezzanine House]]
 - [[the-houses/plan-8-twin-two-storey-house|Plan 8: The Twin Two-Storey House]]
+- [[the-houses/plan-10-sunspace-shared-kitchen|Plan 10: The Sunspace House with a Shared Kitchen]]
 - [[the-houses/index|The Houses]]
 - [[the-houses/layout-d-site-development-plan|Layout D: Following the Site Development Plan]]
 - [[documents/community-constitution|Community Constitution (2025)]]

@@ -112,7 +112,7 @@ Alternatives drawn before the plan was seen:
 
 ## House plans
 
-[[the-houses/house-plans|House Plans: Two Homes in Two Halves]] sets out nine draft floor plans for the Haupt family's two homes, each of 200 m² in two self-contained halves, and how each plan would sit on Unit 1, Unit 3 and the Main Dwelling. The plans are drafts for discussion within the family.
+[[the-houses/house-plans|House Plans: Two Homes in Two Halves]] sets out ten draft floor plans for the Haupt family's two homes, each of 200 m² in two self-contained halves, and how each plan would sit on Unit 1, Unit 3 and the Main Dwelling. The plans are drafts for discussion within the family.
 
 - [[the-houses/plan-1-long-house|Plan 1: The Long House]]
 - [[the-houses/plan-2-staggered-wings|Plan 2: Two Staggered Wings]]
@@ -123,6 +123,7 @@ Alternatives drawn before the plan was seen:
 - [[the-houses/plan-7-twin-mezzanine-house|Plan 7: The Twin Mezzanine House]]
 - [[the-houses/plan-8-twin-two-storey-house|Plan 8: The Twin Two-Storey House]]
 - [[the-houses/plan-9-shared-kitchen-and-patio|Plan 9: The Shared Kitchen and Patio]]
+- [[the-houses/plan-10-sunspace-shared-kitchen|Plan 10: The Sunspace House with a Shared Kitchen]]
 
 ## How they compare
 
