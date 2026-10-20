@@ -12,7 +12,7 @@ right_of_reply: pending
 password: isikhova
 aliases: []
 links: []
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 > **These plans are not agreed.** The Haupt family drew them in October 2026 for discussion among themselves. Nobody outside the family has been asked: not the company, its Community Management Panel (CMP) or its Board, not the residents and not Hessequa Municipality. They will be put to the company through the CMP once the family has agreed what to propose.
@@ -25,6 +25,9 @@ updated: 2026-10-19
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
 > Statements without a tag are proposals. They describe what an idea could become.
+
+> [!warning] Superseded
+> This plan puts each terrace under its own roof. The family has since set a rule that both halves sit under a single roof [MS], so it no longer meets the brief. It stays on the site as a record. On a slope like Unit 3's, a single roof over a raised floor on piers would be the way to revisit it.
 
 ## The goal
 
@@ -93,6 +96,8 @@ The site figures come from [[the-houses/layout-d-site-development-plan|Layout D]
 - [[the-houses/plan-11-courtyard-house|Plan 11: The Courtyard House]]
 - [[the-houses/plan-12-h-plan|Plan 12: The H-Plan]]
 - [[the-houses/plan-13-barn|Plan 13: The Barn]]
+- [[the-houses/plan-14-roundhouse|Plan 14: The Roundhouse]]
+- [[the-houses/plan-15-walled-werf|Plan 15: The Walled Werf]]
 - [[the-houses/index|The Houses]]
 - [[the-houses/layout-d-site-development-plan|Layout D: Following the Site Development Plan]]
 - [[proposals/index|Proposals]]

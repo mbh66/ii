@@ -112,7 +112,7 @@ Alternatives drawn before the plan was seen:
 
 ## House plans
 
-[[the-houses/house-plans|House Plans: Two Homes in Two Halves]] sets out thirteen draft floor plans for the Haupt family's two homes, each of 200 m² in two self-contained halves, and how each plan would sit on Unit 1, Unit 3 and the Main Dwelling. The plans are drafts for discussion within the family.
+[[the-houses/house-plans|House Plans: Two Homes in Two Halves]] sets out fifteen draft floor plans for the Haupt family's two homes, each of 200 m² in two self-contained halves, and how each plan would sit on Unit 1, Unit 3 and the Main Dwelling. The plans are drafts for discussion within the family.
 
 - [[the-houses/plan-1-long-house|Plan 1: The Long House]]
 - [[the-houses/plan-2-staggered-wings|Plan 2: Two Staggered Wings]]
@@ -127,6 +127,8 @@ Alternatives drawn before the plan was seen:
 - [[the-houses/plan-11-courtyard-house|Plan 11: The Courtyard House]]
 - [[the-houses/plan-12-h-plan|Plan 12: The H-Plan]]
 - [[the-houses/plan-13-barn|Plan 13: The Barn]]
+- [[the-houses/plan-14-roundhouse|Plan 14: The Roundhouse]]
+- [[the-houses/plan-15-walled-werf|Plan 15: The Walled Werf]]
 
 ## How they compare
 
