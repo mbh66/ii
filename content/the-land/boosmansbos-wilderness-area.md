@@ -19,6 +19,9 @@ updated: 2026-10-13
 
 The Boosmansbos Wilderness Area covers 14,200 hectares of the Langeberg, about 22 km north-west of Heidelberg [IC]. The Duiwenhoks River and its tributary, the Noukrans, rise there [IC]. CapeNature manages the wilderness area as part of Grootvadersbosch Nature Reserve [IC]. It lies north of the farm, and the family's map places one of its parcels on the farm's north-western boundary [TBV].
 
+The Hessequa Municipality Approval letter of October 2024 states the following under REASONS FOR DECISION:
+	h. According to the National Department of Environmental Affairs' Protected Areas Register, there are two protected areas within close proximity to the proposal (i.e. the **Boosmansbos Wilderness Area** and Hessequa Hills Private Nature Reserve). The Boosmanbos Wilderness Area was declared as a Forest Wilderness Area on 20 January 1978 and as a World Heritage Site, as part of the Cape Floral Region Protected Areas, on 30 January 2009. The Hessequa Hills Private Nature Reserve was declared as a protected area on 12 November 1999. An analysis of the available GIS tools and information confirms that the proposal will be located within a five kilometres radius of both these protected areas.
+
 CapeNature has not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
 ![[Boosmansbos Wilderness Area.jpg]]
@@ -26,12 +29,13 @@ CapeNature has not yet been asked to comment on this page. The key to the letter
 
 ## How it is protected
 
-| Date | Event | Tag |
-|---|---|---|
-| 1896 | Demarcated as a State Forest | [TBV] |
-| 1978 | Proclaimed a Wilderness Area | [IC] |
-| 2004 | Included in the Cape Floral Region Protected Areas World Heritage Site | [IC] |
-| 2015 | Included in the Gouritz Cluster Biosphere Reserve, declared by UNESCO that year | [TBV] |
+| Date | Event                                                                                 | Tag   |
+| ---- | ------------------------------------------------------------------------------------- | ----- |
+| 1896 | Demarcated as a State Forest                                                          | [TBV] |
+| 1978 | Proclaimed a Wilderness Area                                                          | [IC]  |
+| 2004 | Included in the Cape Floral Region Protected Areas World Heritage Site                | [IC]  |
+| 2009 | Proclaimed a World Heritage Site as part of the Cape Floral Region<br>Protected Areas | [IC]  |
+| 2015 | Included in the Gouritz Cluster Biosphere Reserve, declared by UNESCO that year       | [TBV] |
 
 CapeNature manages the area to "maintain its natural systems and to safeguard its pristine environment" [IC]. Entry is on foot only. No more than 12 people may enter a day, hikers choose their own routes across about 64 km of unmarked paths, and fires are not permitted [IC].
 
@@ -86,6 +90,7 @@ BirdLife South Africa names invasive alien plants, above all cluster pine, as th
 ## References
 
 - CapeNature: [Boosmansbos Wilderness Area map and brochure](https://www.capenature.co.za/uploads/files/Reserves/Maps/Boosmansbos-Map-and-Brochure.pdf). Size, distance, proclamation, World Heritage status, management aim, rules for hikers, climate, soils, rivers, plants, mammals and birds.
+- Minister of Environmental Affairs & Tourism official proclamation, January 2009: [World Heritage Convention Act, 1999](https://web.archive.org/web/20260621171400/https://www.gov.za/sites/default/files/gcis_document/201409/3183272.pdf).
 - CapeNature: [Boosmansbos brochure, October 2023](https://www.capenature.co.za/uploads/files/Boosmansbos-Brochure-09.10.2023.pdf). Second edition of the same facts, and the flood warning.
 - Wikipedia: [Boosmansbos Wilderness Area](https://en.wikipedia.org/wiki/Boosmansbos_Wilderness_Area). Second source for the 1978 and 2004 dates, Grootberg and the river; the rambling aloe; the 20 km distance.
 - Wikipedia: [Gouritz Cluster Biosphere Reserve](https://en.wikipedia.org/wiki/Gouritz_Cluster_Biosphere_Reserve). Boosmansbos among the biosphere reserve's World Heritage sites.

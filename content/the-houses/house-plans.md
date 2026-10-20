@@ -1,6 +1,6 @@
 ---
 title: "House Plans: Two Homes in Two Halves"
-description: Six draft floor plans for two family homes of 200 m² each, every home split into two self-contained halves, with how each plan sits on Unit 1, Unit 3 and the Main Dwelling.
+description: Eight draft floor plans for two family homes of 200 m² each, every home split into two self-contained halves, with how each plan sits on Unit 1, Unit 3 and the Main Dwelling.
 type: concept
 tags:
   - concept
@@ -15,7 +15,7 @@ aliases:
   - Floor plans
   - Two-household homes
 links: []
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 > **These plans are not agreed.** The Haupt family drew them in October 2026 for discussion among themselves. Nobody outside the family has been asked: not the company, its Community Management Panel (CMP) or its Board, not the residents and not Hessequa Municipality. They will be put to the company through the CMP once the family has agreed what to propose.
@@ -29,7 +29,7 @@ updated: 2026-10-19
 >
 > Statements without a tag are proposals. They describe what an idea could become.
 
-This page sets out how the Haupt family's two homes could be planned inside, now that [[the-houses/index|The Houses]] has looked at where homes could stand. Each home would hold two households in two self-contained halves under one roof. Six plans show different ways of arranging the same rooms within the 200 m² each home is allowed, and how each plan would sit on three of the farm's sites: Unit 1, Unit 3 and the Main Dwelling.
+This page sets out how the Haupt family's two homes could be planned inside, now that [[the-houses/index|The Houses]] has looked at where homes could stand. Each home would hold two households in two self-contained halves under one roof. Eight plans show different ways of arranging the rooms within the 200 m² each home is allowed, and how each plan would sit on three of the farm's sites: Unit 1, Unit 3 and the Main Dwelling.
 
 ## The goal
 
@@ -60,7 +60,9 @@ Every plan uses the same two halves:
 - **Half B**, 80 m², with one bedroom, a large step-free bathroom with a level shower, and no step between the parking, the front door and the bed. Veronica would live in it in House 1, and the family's mother and her partner in House 2.
 - **A shared core** of about 16 m², with the laundry and the plant room: pump, inverter, batteries and hot water for both halves.
 
-Keeping the halves the same across the plans means the plans can be compared on their arrangement alone. Each half can still be fitted out to suit the people in it.
+Keeping the halves the same across Plans 1 to 6 means those plans can be compared on their arrangement alone. Each half can still be fitted out to suit the people in it.
+
+Plans 7 and 8 give both halves two bedrooms. Each half is then 92 m², with the shared core of 16 m², and the second bedroom of each half sits upstairs: on a mezzanine in Plan 7, and on a closed upper floor in Plan 8. Half B keeps its first bedroom, its step-free bathroom and its kitchen on the ground floor.
 
 ## Two households under one roof
 
@@ -82,13 +84,14 @@ Whether that is enough is a question for the municipality. Whether two household
 - The plans are schematic. They show rooms, doors to the outside and the north windows, and leave out internal doors, windows on other walls and furniture.
 - An eave of about 600 millimetres would shade the north windows in summer. Whether eaves count toward the 200 m² under roof is still open.
 
-## The six plans
+## The eight plans
 
 
 | ![[plan-1.png]] | ![[plan-2.png]] |
 | --------------- | --------------- |
 | ![[plan-3.png]] | ![[plan-4.png]] |
 | ![[plan-5.png]] | ![[plan-6.png]] |
+| ![[plan-7.png]] | ![[plan-8.png]] |
 
 
 - [[the-houses/plan-1-long-house|Plan 1: The Long House]]: one storey, both halves in a single 25-metre line along the contour, with the shared core between them.
@@ -97,21 +100,24 @@ Whether that is enough is a question for the municipality. Whether two household
 - [[the-houses/plan-4-loft-house|Plan 4: The Loft House]]: one storey with a 28 m² loft over Half A, which shortens the house by 3.5 metres.
 - [[the-houses/plan-5-stacked-house|Plan 5: The Stacked House]]: two storeys, with Half B on the ground floor and Half A above, on half the slab of the others.
 - [[the-houses/plan-6-sunspace-house|Plan 6: The Sunspace House]]: one storey with ideas from the earthship: a glazed sunspace along the north side and earth banked against the south wall.
+- [[the-houses/plan-7-twin-mezzanine-house|Plan 7: The Twin Mezzanine House]]: one storey, with two bedrooms in each half, the second on a mezzanine under the high side of the roof.
+- [[the-houses/plan-8-twin-two-storey-house|Plan 8: The Twin Two-Storey House]]: two bedrooms in each half, the second upstairs with its own shower room, in two-storey parts either side of the core.
 
 ## How they compare
 
-| | Plan 1 | Plan 2 | Plan 3 | Plan 4 | Plan 5 | Plan 6 |
-|---|---|---|---|---|---|---|
-| Storeys | One | One | One, on two levels | One, with a loft | Two | One |
-| Overall size | 25 × 8 m | 25 × 11.5 m | 23 × 14 m | 21.5 × 8 m | 12.5 × 8 m | 25 × 8 m, plus the earth bank |
-| Slab and roof | 200 m² | 200 m² | 200 m², in two parts | 172 m² | 100 m² | 200 m² |
-| Half A | 104 m² | 104 m² | 104 m² | 76 m² plus a 28 m² loft | 100 m², upstairs | 104 m², with sunspace |
-| Half B | 80 m² | 80 m² | 80 m² | 80 m² | 80 m² | 80 m², with sunspace |
-| Shared core | 16 m² | 16 m² | 16 m², with the link stair | 16 m² | 20 m², with the stair | 16 m² |
-| Half B step-free | Yes | Yes | Yes, level from the track | Yes | Yes | Yes |
-| Highest point above the slab | about 4 m | about 4 m | about 4 m on each terrace | about 6.2 m | about 6.2 m | about 4.8 m |
-| Needs all shareholders to approve its height | No | No | No | To be asked | Yes | No |
-| Rain caught for each millimetre that falls | about 200 litres | about 200 litres | about 200 litres | about 172 litres | about 100 litres | about 200 litres |
+| | Plan 1 | Plan 2 | Plan 3 | Plan 4 | Plan 5 | Plan 6 | Plan 7 | Plan 8 |
+|---|---|---|---|---|---|---|---|---|
+| Storeys | One | One | One, on two levels | One, with a loft | Two | One | One, with two mezzanines | Two, in part |
+| Overall size | 25 × 8 m | 25 × 11.5 m | 23 × 14 m | 21.5 × 8 m | 12.5 × 8 m | 25 × 8 m, plus the earth bank | 19.5 × 8 m | 17 × 8 m |
+| Slab and roof | 200 m² | 200 m² | 200 m², in two parts | 172 m² | 100 m² | 200 m² | 156 m² | 136 m² |
+| Half A | 104 m² | 104 m² | 104 m² | 76 m² plus a 28 m² loft | 100 m², upstairs | 104 m², with sunspace | 70 m² plus a 22 m² mezzanine | 60 m² plus 32 m² upstairs |
+| Half B | 80 m² | 80 m² | 80 m² | 80 m² | 80 m² | 80 m², with sunspace | 70 m² plus a 22 m² mezzanine | 60 m² plus 32 m² upstairs |
+| Bedrooms in Half A and Half B | 2 and 1 | 2 and 1 | 2 and 1 | 2 and 1 | 2 and 1 | 2 and 1 | 2 and 2 | 2 and 2 |
+| Shared core | 16 m² | 16 m² | 16 m², with the link stair | 16 m² | 20 m², with the stair | 16 m² | 16 m² | 16 m² |
+| Half B step-free | Yes | Yes | Yes, level from the track | Yes | Yes | Yes | Ground floor; second bedroom up a stair | Ground floor; second bedroom up a stair |
+| Highest point above the slab | about 4 m | about 4 m | about 4 m on each terrace | about 6.2 m | about 6.2 m | about 4.8 m | about 6.2 m | about 6.2 m |
+| Needs all shareholders to approve its height | No | No | No | To be asked | Yes | No | To be asked | Yes |
+| Rain caught for each millimetre that falls | about 200 litres | about 200 litres | about 200 litres | about 172 litres | about 100 litres | about 200 litres | about 156 litres | about 136 litres |
 
 ## Where each plan fits
 
@@ -127,7 +133,7 @@ The site figures come from [[the-houses/layout-d-site-development-plan|Layout D]
 | To the Shed | 480 m, about 10 min | 830 m, about 18 min | 50 m, about 1 min |
 | Climb up to the Shed | 3 m | 21 m | 4 m |
 | On the allocation table | Available [MS] | Allocated [MS] | Available [MS] |
-| Plans that fit well | 1, 2, 4, 6 | 3, 5 | 1, 2, 4, 6 |
+| Plans that fit well | 1, 2, 4, 6, 7, 8 | 3, 5 | 1, 2, 4, 6, 7 |
 
 The Main Dwelling is approved for 350 m² under roof in two connected parts: Part A, a 200 m² home allocated to one shareholder, and Part B, a 150 m² shared facility [MS]. A family home at the Main Dwelling would be Part A, joined to the shared building. [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]] proposes moving the Main Dwelling to the shelf beside a new pond, on flatter ground about 430 metres from the Shed [TBV]. The plans that fit the Main Dwelling would fit there too.
 
@@ -135,7 +141,7 @@ Unit 3 is allocated [MS]. It appears here because the family asked to see what i
 
 ## Which home could go where
 
-House 2 has the stronger reason to sit at the Main Dwelling. Its step-free half would be about a minute's walk from the Shed and beside the shared building [TBV], where the daily walk matters most. House 1 would then sit at Unit 1, the flatter of the two units, about ten minutes from the Shed [TBV]. Plans 1, 2, 4 and 6 suit both sites, so the two homes could use the same plan, as the family intends, or different ones.
+House 2 has the stronger reason to sit at the Main Dwelling. Its step-free half would be about a minute's walk from the Shed and beside the shared building [TBV], where the daily walk matters most. House 1 would then sit at Unit 1, the flatter of the two units, about ten minutes from the Shed [TBV]. Plans 1, 2, 4 and 6 suit both sites, so the two homes could use the same plan, as the family intends, or different ones. Plan 7 also suits both sites, for a home where both households want two bedrooms. Plan 8 suits Unit 1, and fits the Main Dwelling only if the height can be kept under the limit on its slope.
 
 ## Building on rock
 
@@ -155,7 +161,8 @@ Every plan here assumes a slab built up from the ground: a low perimeter wall of
 - Whether Hessequa would treat a home with two self-contained halves as one dwelling.
 - Whether the CMP and the Board would accept two households sharing one home.
 - Whether eaves count toward the 200 m² under roof, and whether the 200 m² counts every floor.
-- Whether a loft counts as a double storey under the Shareholders' Agreement.
+- Whether a loft or a mezzanine counts as a double storey under the Shareholders' Agreement.
+- Whether a bedroom on an open mezzanine meets the national building regulations.
 - How the municipality measures height on sloping ground.
 - Which Areas the family could be allocated. The Main Dwelling and Unit 1 are available on the allocation table of 31 October 2025, and Unit 3 is allocated [MS].
 - How firm the rock is on each platform, and how deep the sand lies over it.
@@ -178,6 +185,8 @@ Every plan here assumes a slab built up from the ground: a low perimeter wall of
 - [[the-houses/plan-4-loft-house|Plan 4: The Loft House]]
 - [[the-houses/plan-5-stacked-house|Plan 5: The Stacked House]]
 - [[the-houses/plan-6-sunspace-house|Plan 6: The Sunspace House]]
+- [[the-houses/plan-7-twin-mezzanine-house|Plan 7: The Twin Mezzanine House]]
+- [[the-houses/plan-8-twin-two-storey-house|Plan 8: The Twin Two-Storey House]]
 - [[the-houses/index|The Houses]]
 - [[the-houses/layout-d-site-development-plan|Layout D: Following the Site Development Plan]]
 - [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]]

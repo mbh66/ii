@@ -34,6 +34,8 @@ For an interactive map, see https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yI
 - [[the-land/duiwenhoks-river-and-dam|The Duiwenhoks River and Dam]]: the river that passes the farm, its fish, the dam upstream, who shares its water, and its estuary.
 - [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]]: the protected mountain land where the river rises.
 - [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]]: the reserve declared in 2025 about 100 metres north of the farm, in the dam's catchment.
+- [[the-land/hessequa-hills-private-nature-reserve|Hessequa Hills Private Nature Reserve]]: a privately owned reserve of about 111 hectares, declared in 1999, about 700 metres south-east of the farm.
+- [[the-land/regularisation-of-private-nature-reserves|Regularisation of Private Nature Reserves]]: how reserves declared under the 1974 ordinance are being brought into line with the Protected Areas Act, and what happens to those that are not.
 - [[the-land/grootvadersbosch-nature-reserve|Grootvadersbosch Nature Reserve]]: the largest remaining indigenous forest in the Langeberg.
 - [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]]: how the Cape Water Performance-Based Bond pays for verified clearing, the clearing already under way above and along the river, and what links the two.
 - [[the-land/langeberg-water-source-area|The Langeberg Water Source Area]]: the strategic water source area the river flows from, with its condition and threats.
