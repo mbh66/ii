@@ -8,10 +8,12 @@ tags:
   - theme/governance
   - lang/en
 date: 2026-10-20
-draft: true
+draft: false
 right_of_reply: pending
 password: isikhova
-aliases: [Barn plan, Shed house]
+aliases:
+  - Barn plan
+  - Shed house
 links: []
 updated: 2026-10-20
 ---
