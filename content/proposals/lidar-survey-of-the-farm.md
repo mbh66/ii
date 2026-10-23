@@ -11,7 +11,7 @@ tags:
 date: 2026-10-21
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - LiDAR survey
   - Drone survey
@@ -197,5 +197,5 @@ The survey could be paid by the company, by the prospective stewards, or by both
 - LandScope. [LandScope](https://landscope.earth). The layers it produces, its upload of drone surveys, its export formats and its advice to extend analysis beyond the boundary, as the service describes itself, consulted on 21 October 2026.
 - A drone survey firm: https://www.3dronemapping.com. Aerial LiDAR survey quote for about 200 hectares, October 2026. Deliverables, stated accuracies and the limits in dense vegetation. Not published on this site.
 - LandScope's creator. Email to the prospective stewards, October 2026. His view on the 10-metre contours and on the decisions the survey would inform. Not published on this site.
-- Isikhova & Ironwood Forest Community (Pty) Ltd. Shareholders' agreement, as summarised on this site. Decisions that need every founding shareholder.
+- Isikova & Ironwood Forest Community (Pty) Ltd. Shareholders' agreement, as summarised on this site. Decisions that need every founding shareholder.
 - Hessequa Municipality. Letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on this site. The environmental conservation management plan and its fire management.

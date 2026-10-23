@@ -1,6 +1,6 @@
 ---
 title: The Family's Story
-description: How three Haupt siblings, born in 1966, 1969 and 1973, built separate careers in telecoms systems, business and psychotherapy, and construction and kitchens, and came back together as prospective stewards of Isikhova & Ironwood.
+description: How three Haupt siblings, born in 1966, 1969 and 1973, built separate careers in telecoms systems, business and psychotherapy, and construction and kitchens, and came back together as prospective stewards of Isikova & Ironwood.
 type: page
 tags:
   - stewards
@@ -8,7 +8,7 @@ tags:
 date: 2026-10-14
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - The Haupt Siblings
   - Stewards
@@ -27,7 +27,7 @@ updated: 2026-10-23
 >
 > Statements without a tag are proposals. They describe what an idea could become.
 
-Michael, Veronica and Robert Haupt are three of five children [MS]. Michael was born in 1966, Veronica in 1969 and Robert in 1973 [MS]. The family describes the three as having always stood somewhat outside the system [MS]. They are now considering joining Isikhova & Ironwood as land stewards [MS]. This page tells how their separate routes came back together on this land.
+Michael, Veronica and Robert Haupt are three of five children [MS]. Michael was born in 1966, Veronica in 1969 and Robert in 1973 [MS]. The family describes the three as having always stood somewhat outside the system [MS]. They are now considering joining Isikova & Ironwood as land stewards [MS]. This page tells how their separate routes came back together on this land.
 
 ## Three routes
 
@@ -49,7 +49,7 @@ In October 2026 the siblings camped on the farm [MS] after being introduced to t
 
 ## What is still open
 
-- How the three came to Isikhova & Ironwood, told by the three of them.
+- How the three came to Isikova & Ironwood, told by the three of them.
 - The company's reply to the family's proposal.
 
 ## Related

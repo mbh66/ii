@@ -1,6 +1,6 @@
 ---
 title: Newsletter, March 2026
-description: "A plain-language summary of the first newsletter from the Isikhova & Ironwood residents to their interest group: water and fire work in 2025, daily life on the farm, and plans for a borehole and tank farm from 2027."
+description: "A plain-language summary of the first newsletter from the Isikova & Ironwood residents to their interest group: water and fire work in 2025, daily life on the farm, and plans for a borehole and tank farm from 2027."
 type: page
 tags:
   - community
@@ -11,14 +11,14 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 updated: 2026-10-13
 ---
 
 > [!note] Not yet agreed with the company
 > This summary has not yet been shown to the residents who wrote the newsletter. It stays in draft until they have agreed the text.
 
-In March 2026 the residents of Isikhova & Ironwood sent their first newsletter to the people interested in joining the community [MS]. It looks back at 2025, describes daily work on the farm and sets out plans for 2027. The residents asked readers for feedback [MS].
+In March 2026 the residents of Isikova & Ironwood sent their first newsletter to the people interested in joining the community [MS]. It looks back at 2025, describes daily work on the farm and sets out plans for 2027. The residents asked readers for feedback [MS].
 
 The letters in square brackets show where each fact comes from. [MS] means it comes from the residents' own newsletter. [[about|About This Site]] explains the tags.
 
@@ -70,4 +70,4 @@ In early September 2025 a controlled burn on a neighbouring farm got out of hand
 
 ## Source
 
-- Isikhova & Ironwood residents, newsletter to the interest group, March 2026, 4 pages with photographs. The photographs are not reproduced here. Supplied to the prospective stewards. Not published on this site.
+- Isikova & Ironwood residents, newsletter to the interest group, March 2026, 4 pages with photographs. The photographs are not reproduced here. Supplied to the prospective stewards. Not published on this site.

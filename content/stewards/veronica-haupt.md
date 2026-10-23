@@ -1,6 +1,6 @@
 ---
 title: Veronica Haupt
-description: The middle of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards. A business owner since 21 and later a psychotherapist, she learnt organic growing and herbal healing on a farm in KwaZulu-Natal.
+description: The middle of the three Haupt siblings considering joining Isikova & Ironwood as land stewards. A business owner since 21 and later a psychotherapist, she learnt organic growing and herbal healing on a farm in KwaZulu-Natal.
 type: page
 tags:
   - stewards
@@ -8,7 +8,7 @@ tags:
 date: 2026-10-14
 draft: false
 right_of_reply: done
-password: isikhova
+password: isikova
 aliases: []
 links: []
 updated: 2026-10-23
@@ -25,7 +25,7 @@ updated: 2026-10-23
 >
 > Statements without a tag are proposals. They describe what an idea could become.
 
-Veronica Haupt, born in 1969, is the middle of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards [MS]. She bought her first business at the age of 21 and has spent most of her working life in business [MS]. In 2011 she left conventional business for four years on a farm, where she learnt to grow organic vegetables and to work with medicinal herbs [MS]. She later trained as a psychotherapist [MS]. She is now semi-retired [MS].
+Veronica Haupt, born in 1969, is the middle of the three Haupt siblings considering joining Isikova & Ironwood as land stewards [MS]. She bought her first business at the age of 21 and has spent most of her working life in business [MS]. In 2011 she left conventional business for four years on a farm, where she learnt to grow organic vegetables and to work with medicinal herbs [MS]. She later trained as a psychotherapist [MS]. She is now semi-retired [MS].
 
 ## A career in business
 

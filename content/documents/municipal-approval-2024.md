@@ -12,7 +12,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 updated: 2026-10-13
 ---
 
@@ -111,6 +111,7 @@ The [[documents/shareholders-agreement|Shareholders' Agreement]] defines the Sit
 ## Related
 
 - [[documents/index|Documents]]
+- [[documents/consent-use-application-2024|The Application for Additional Homes (2024)]]
 - [[documents/shareholders-agreement|Shareholders' Agreement (2025)]]
 - [[documents/community-constitution|Community Constitution (2025)]]
 - [[the-land/index|The Land]]

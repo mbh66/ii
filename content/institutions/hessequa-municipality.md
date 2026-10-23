@@ -10,7 +10,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Hessequa Local Municipality
   - Langeberg Municipality

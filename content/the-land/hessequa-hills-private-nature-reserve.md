@@ -1,6 +1,6 @@
 ---
 title: Hessequa Hills Private Nature Reserve
-description: "A privately owned nature reserve of about 111 hectares in the foothills of the Langeberg, about 700 metres south-east of the farm: how it is protected, the land it covers, its vegetation and what is still unknown."
+description: "A privately owned nature reserve of about 111 hectares in the foothills of the Langeberg, about 850 metres south-east of the farm: how it is protected, the land it covers, its vegetation, its condition and what is still unknown."
 type: page
 tags:
   - land
@@ -9,20 +9,20 @@ tags:
 date: 2026-10-20
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Hessequa Hills
   - Hessequa Hills Nature Reserve
 links: []
-updated: 2026-10-20
+updated: 2026-10-23
 ---
 
-The Hessequa Hills Private Nature Reserve covers about 111 hectares of the Langeberg foothills north of Heidelberg [IC]. It was declared a protected area on 12 November 1999 [IC]. The national register lists it as a nature reserve governed and owned by individual landowners [IC]. Its nearest boundary lies about 700 metres south-east of the farm's south-eastern corner [MS].
+The Hessequa Hills Private Nature Reserve covers about 111 hectares of the Langeberg foothills north of Heidelberg [IC]. It was declared a protected area on 12 November 1999 [IC]. The national register lists it as a nature reserve governed and owned by individual landowners [IC]. The company's 2024 planning application places it about 850 metres south-east of the farm [MS].
 
 The Hessequa Municipality Approval letter of October 2024 states the following under REASONS FOR DECISION:
 	h. According to the National Department of Environmental Affairs' Protected Areas Register, there are two protected areas within close proximity to the proposal (i.e. the Boosmansbos Wilderness Area and **Hessequa Hills Private Nature Reserve**). The Boosmanbos Wilderness Area was declared as a Forest Wilderness Area on 20 January 1978 and as a World Heritage Site, as part of the Cape Floral Region Protected Areas, on 30 January 2009. The Hessequa Hills Private Nature Reserve was declared as a protected area on 12 November 1999. An analysis of the available GIS tools and information confirms that the proposal will be located within a five kilometres radius of both these protected areas.
 
-Little has been published about this reserve. Most of what follows comes from national and provincial registers and maps. The page names no owners. The reserve's owners and [[institutions/capenature|CapeNature]] have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
+Little has been published about this reserve. Most of what follows comes from national and provincial registers and maps, and from the company's 2024 planning application. The page names no owners. The reserve's owners and [[institutions/capenature|CapeNature]] have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 
 ![[Hessequa Hills.jpg]]
 <center>Hessequa Hills in relation to the farm</center>
@@ -58,11 +58,12 @@ The reserve lies about 8 km north of Heidelberg [MS], in the [[institutions/hess
 | Item | Detail |
 |---|---|
 | Direction from the farm | East-south-east [MS] |
-| Nearest point to the farm's boundary | About 700 metres, from the farm's south-eastern corner [MS] |
+| Distance from the farm | About 850 metres south-east, as given in the company's 2024 planning application [MS] |
 | Distance between the centres of the farm and the reserve | About 2.3 km [MS] |
 | Inside the 5 km radius used in the 2024 approval | Yes [IC] |
+| The road to the farm | The farm's access to the public road DR1316 runs over Bontheuwel No. 84, the reserve's largest parcel, as part of a chain of rights of way through neighbouring land [MS] |
 
-The distances were measured for this page from the register's outline of the reserve and the Surveyor General's outline of the farm [MS]. They are approximate.
+The distance between the centres was measured for this page from the register's outline of the reserve and the Surveyor General's outline of the farm [MS]. Both distances are approximate. *Where the sources disagree* sets out an earlier measurement.
 
 ## Vegetation
 
@@ -71,6 +72,10 @@ The national vegetation map places almost the whole reserve in South Langeberg S
 The 2017 Western Cape Biodiversity Spatial Plan maps the land around the reserve as Critical Biodiversity Areas and Ecological Support Areas [IC]. The reasons it gives for the surrounding planning units include the natural range of the bontebok and the Cape mountain zebra, South Langeberg Sandstone Fynbos and protection of the Duiwenhoks water source [IC].
 
 No species lists for the reserve itself were found.
+
+## Its condition
+
+The company's 2024 planning application describes the reserve as neglected for the past 25 years, with no control of invasive alien plants [MS]. It says dense stands of wattle cover most of the property and line the provincial road P1316, and that their seed lodges in car tyres on that road and is spread far and wide [MS]. This is the planner's account, written for the application. The reserve's owners have not been asked about it, and nobody has checked it on the ground for this page.
 
 ## The name
 
@@ -81,13 +86,14 @@ The reserve carries the name of the [Hessequa](https://df.valleyofgrace.co.za/hi
 | Question | What the sources say | Where this page stands |
 |---|---|---|
 | Date of declaration | The 2024 approval letter gives 12 November 1999. The national register and Protected Planet give only the year, 1999. | 12 November 1999 [IC]. The two agree; the gazette notice has not been seen. |
+| Distance from the farm | The company's 2024 planning application gives about 850 metres south-east of the application site. A measurement made for this page from the register's outline and the Surveyor General's outline gave about 700 metres from the farm's south-eastern corner to the reserve's nearest boundary. | About 850 metres [MS], following the application. The two figures may measure from different points; the application does not say where it measured from. |
 | District | The 2017 biodiversity plan names the Eden district. Current records name the Garden Route District. | Garden Route; Eden is the earlier name of the same district. |
 
 ## What is still open
 
 - The notice that declared the reserve in 1999, and the law it was declared under.
 - Whether the reserve has been regularised under the Protected Areas Act, and who its management authority is. CapeNature can confirm both.
-- Whether the reserve has a management plan, and how it handles fire and invasive alien plants.
+- Whether the reserve has a management plan, and how it handles fire and invasive alien plants. The 2024 planning application says alien plants have not been controlled for 25 years [MS]; the owners have not been asked.
 - Whether the reserve drains to the Duiwenhoks River, and which streams cross it.
 - What plants and animals have been recorded on it.
 - How the owners describe the reserve and what they use it for, in their own words.
@@ -100,6 +106,7 @@ The reserve carries the name of the [Hessequa](https://df.valleyofgrace.co.za/hi
 - [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]]
 - [[the-land/regularisation-of-private-nature-reserves|Regularisation of Private Nature Reserves]]
 - [[documents/municipal-approval-2024|Municipal Approval for Additional Homes (2024)]]
+- [[documents/consent-use-application-2024|The Application for Additional Homes (2024)]]
 - [[institutions/capenature|CapeNature]]
 - [[institutions/hessequa-municipality|Hessequa Municipality]]
 - [[history/overview|The Duiwenhoks Valley: A Historical Overview]]
@@ -107,6 +114,7 @@ The reserve carries the name of the [Hessequa](https://df.valleyofgrace.co.za/hi
 ## References
 
 - Hessequa Municipality: letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on [[documents/municipal-approval-2024|Municipal Approval for Additional Homes (2024)]]. The declaration date and the 5 km radius.
+- PlanServ (Pty) Ltd for Isikova and Ironwood Forest Community (Pty) Ltd: "Consent Use: Portion 10 of the Farm Broken Hill No. 88, Hessequa Municipality", motivation report, ref. 2302, February 2024, as summarised on [[documents/consent-use-application-2024|The Application for Additional Homes (2024)]]. The distance from the farm and the reserve's condition.
 - UNEP-WCMC: [Protected Area Profile for Hessequa Hills Private Nature Reserve](https://www.protectedplanet.net/555570867), from the World Database on Protected Areas, October 2026. Designation, status, status year, governance, ownership, management authority, management plan and reported area. Its source is the South Africa Protected Areas Database of the Department of Forestry, Fisheries and the Environment, updated 2026.
 - UNEP-WCMC: [World Database on Protected Areas map service](https://data-gis.unep-wcmc.org/server/rest/services/ProtectedSites/The_World_Database_of_Protected_Areas/MapServer/1), consulted on 20 October 2026. The reserve's outline, its GIS area and the state verification flag.
 - Chief Surveyor-General: [CSG search map service](https://csggis.dlrrd.gov.za/server/rest/services/CSGSearch/MapServer), consulted on 20 October 2026. The cadastral outlines and areas of the three parcels and of the farm.

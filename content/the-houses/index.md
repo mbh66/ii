@@ -10,7 +10,7 @@ tags:
 date: 2026-10-17
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - The Layout
   - House layouts
@@ -197,4 +197,4 @@ To explore an interactive version, visit https://earth.google.com/earth/d/1Z2zXb
 
 - Western Cape Government. [Spatial Data Warehouse: Elevation, contour layers](https://gis.westerncape.gov.za/server2/rest/services/SpatialDataWarehouse/Elevation/MapServer/layers?f=pjson). The NGI contours used to model the ground.
 - Hessequa Municipality. Letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on this site. The limits on homes and the clustering condition.
-- Isikhova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, as summarised on this site. Areas, firebreaks and the Main Dwelling. Annexures 1 and 2, the Site Development Plan, for the dwelling positions and the allocation table.
+- Isikova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, as summarised on this site. Areas, firebreaks and the Main Dwelling. Annexures 1 and 2, the Site Development Plan, for the dwelling positions and the allocation table.

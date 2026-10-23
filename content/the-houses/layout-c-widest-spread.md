@@ -10,7 +10,7 @@ tags:
 date: 2026-10-17
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases: []
 links: []
 updated: 2026-10-17

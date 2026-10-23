@@ -12,7 +12,7 @@ tags:
 date: 2026-10-14
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - First five years
   - Five-year plan
@@ -155,6 +155,6 @@ If you live on or near the farm, or work with any of the bodies named here, your
 - Stellenbosch University (2025). [Fisher, Soil hydrophobicity in Fynbos](https://scholar.sun.ac.za/server/api/core/bitstreams/84519948-69c1-4503-9312-28938390b992/content). Fynbos soil research at Stellenbosch.
 - Stellenbosch University (2023). [De Waal, Adverse impacts of agricultural expansion on hydrological and nutrient dynamics in a Renosterveld landscape](https://scholar.sun.ac.za/handle/10019.1/617). Renosterveld hydrology research at Stellenbosch.
 - Overberg Water. [Annual Report 2021/22](https://static.pmg.org.za/Overberg_Water_Board_2021_22_Annual_Report.pdf). The towns and users the river supplies.
-- Isikhova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Conservation priorities, CMP portfolios, sign-off for earthworks and public statements.
-- Isikhova & Ironwood Forest Community (Pty) Ltd. Shareholders' agreement, as summarised on this site. Decisions that need every founding shareholder.
+- Isikova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Conservation priorities, CMP portfolios, sign-off for earthworks and public statements.
+- Isikova & Ironwood Forest Community (Pty) Ltd. Shareholders' agreement, as summarised on this site. Decisions that need every founding shareholder.
 - Hessequa Municipality. Letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on this site. The environmental plan, the area of medium-high sensitivity and the stewardship agreement.

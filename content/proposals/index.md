@@ -8,7 +8,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: not-needed
-password: isikhova
+password: isikova
 updated: 2026-10-18
 ---
 
@@ -32,5 +32,5 @@ A proposal is a high-level discussion paper for unlocking the land's potential. 
 
 ## Related
 
-- [[ii/proposals/index|Isikhova & Ironwood]]
+- [[index|Isikova & Ironwood]]
 - [[how-to-respond|How to Respond]]

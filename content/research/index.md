@@ -8,7 +8,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: not-needed
-password: isikhova
+password: isikova
 updated: 2026-10-14
 ---
 
@@ -31,7 +31,7 @@ A brief records evidence and proposes nothing. Where a brief draws on a longer r
 
 ## Related
 
-- [[ii/research/index|Isikhova & Ironwood]]
+- [[index|Isikova & Ironwood]]
 - [[proposals/index|Proposals]]
 - [[about|About This Site]]
 - [[how-to-respond|How to Respond]]

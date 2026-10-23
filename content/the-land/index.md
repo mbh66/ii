@@ -8,11 +8,11 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: not-needed
-password: isikhova
+password: isikova
 updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is about 200 hectares of mountain land on the Duiwenhoks River near Heidelberg [IC]. We, the family hoping to become part of her stewardship team, know her as a living being who wants to be in relationship with conscious people. For a long time she has held a story in her water, her soil, her fynbos and the marks of fire, and we believe it opens only to stewards who listen before they act. 
+Isikova & Ironwood is about 200 hectares of mountain land on the Duiwenhoks River near Heidelberg [IC]. We, the family hoping to become part of her stewardship team, know her as a living being who wants to be in relationship with conscious people. For a long time she has held a story in her water, her soil, her fynbos and the marks of fire, and we believe it opens only to stewards who listen before they act. 
 
 Those who judge her by what she could produce will see grazing and water. We have come to ask what she has been keeping, and to write it down so that her story is told for generations after us. [[the-land/the-lands-story|The Land's Story]] sets out what we have heard so far. The pages below begin the listening: where she lies, how her water moves, what grows and lives on her, how fire has shaped her, and who her neighbours are.
 
@@ -34,7 +34,7 @@ For an interactive map, see https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yI
 - [[the-land/duiwenhoks-river-and-dam|The Duiwenhoks River and Dam]]: the river that passes the farm, its fish, the dam upstream, who shares its water, and its estuary.
 - [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]]: the protected mountain land where the river rises.
 - [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]]: the reserve declared in 2025 about 100 metres north of the farm, in the dam's catchment.
-- [[the-land/hessequa-hills-private-nature-reserve|Hessequa Hills Private Nature Reserve]]: a privately owned reserve of about 111 hectares, declared in 1999, about 700 metres south-east of the farm.
+- [[the-land/hessequa-hills-private-nature-reserve|Hessequa Hills Private Nature Reserve]]: a privately owned reserve of about 111 hectares, declared in 1999, about 850 metres south-east of the farm.
 - [[the-land/regularisation-of-private-nature-reserves|Regularisation of Private Nature Reserves]]: how reserves declared under the 1974 ordinance are being brought into line with the Protected Areas Act, and what happens to those that are not.
 - [[the-land/grootvadersbosch-nature-reserve|Grootvadersbosch Nature Reserve]]: the largest remaining indigenous forest in the Langeberg.
 - [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]]: how the Cape Water Performance-Based Bond pays for verified clearing, the clearing already under way above and along the river, and what links the two.
@@ -42,7 +42,7 @@ For an interactive map, see https://earth.google.com/earth/d/1Z2zXb-eL7OAv6sm-yI
 
 ## Related
 
-- [[ii/the-land/index|Isikhova & Ironwood]]
+- [[index|Isikova & Ironwood]]
 - [[history/index|History]]
 - [[community/index|Community]]
 - [National Water Act on the W2DF register](https://df.valleyofgrace.co.za/rules/national-water-act): written for Ward 2; the Act applies here too

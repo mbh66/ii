@@ -10,7 +10,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Evidence on Holding Water in Fynbos and Renosterveld
   - Water retention evidence
@@ -20,7 +20,7 @@ aliases:
 updated: 2026-10-13
 ---
 
-This brief gathers the published evidence on ways of holding water and soil on land like Isikhova & Ironwood, and says how far each can support a proposal for the farm. It rests on two literature searches the prospective stewards made in October 2026 for the Valley of Grace BioHub. The first found no study in the Cape Floristic Region that tests water-holding earthworks as part of restoring fynbos or renosterveld [MS]. The second asked whether restoring the soil adds water or flood protection to the gains from clearing invasive plants, and found no study of that combination either [MS]. The nearest evidence comes from Cape studies of invasive plant clearing and of renosterveld hydrology, with a few studies from other Mediterranean climates. The brief sets that evidence beside what is known of the farm's own vegetation.
+This brief gathers the published evidence on ways of holding water and soil on land like Isikova & Ironwood, and says how far each can support a proposal for the farm. It rests on two literature searches the prospective stewards made in October 2026 for the Valley of Grace BioHub. The first found no study in the Cape Floristic Region that tests water-holding earthworks as part of restoring fynbos or renosterveld [MS]. The second asked whether restoring the soil adds water or flood protection to the gains from clearing invasive plants, and found no study of that combination either [MS]. The nearest evidence comes from Cape studies of invasive plant clearing and of renosterveld hydrology, with a few studies from other Mediterranean climates. The brief sets that evidence beside what is known of the farm's own vegetation.
 
 > **This brief records evidence. It proposes nothing.** Each proposal that draws on it will have its own page in [[proposals/index|Proposals]]. The Overberg Renosterveld Conservation Trust, Tamera, [[institutions/the-nature-conservancy|The Nature Conservancy]], the South African National Biodiversity Institute and CapeNature have not yet been asked to comment on how this page describes their work. The company has not yet replied to this page.
 

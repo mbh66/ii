@@ -8,7 +8,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 updated: 2026-10-13
 ---
 
@@ -18,5 +18,5 @@ Pages describe roles, rules and practices. Individual members are not named, and
 
 ## Related
 
-- [[ii/community/index|Isikhova & Ironwood]]
+- [[index|Isikova & Ironwood]]
 - [[how-to-respond|How to Respond]]

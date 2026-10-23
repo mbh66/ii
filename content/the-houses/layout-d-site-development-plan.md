@@ -10,7 +10,7 @@ tags:
 date: 2026-10-18
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases: []
 links: []
 updated: 2026-10-18
@@ -89,5 +89,5 @@ To explore an interactive version, visit https://earth.google.com/earth/d/1Z2zXb
 
 ## References
 
-- Isikhova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, Annexures 1 and 2: the Site Development Plan. Dwelling positions, numbering and the allocation table. Not published on this site.
+- Isikova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, Annexures 1 and 2: the Site Development Plan. Dwelling positions, numbering and the allocation table. Not published on this site.
 - Western Cape Government. [Spatial Data Warehouse: Elevation, contour layers](https://gis.westerncape.gov.za/server2/rest/services/SpatialDataWarehouse/Elevation/MapServer/layers?f=pjson). The NGI contours used to model the ground.

@@ -10,14 +10,14 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - The Story of the Land
   - Land's Story
 updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is about 200 hectares on the Duiwenhoks River near Heidelberg, Western Cape [IC]. The river drains the Langeberg, one of South Africa's 22 strategic water source areas, and runs south to the sea [IC]. After four days camping on the farm in October 2026, the prospective stewards came away with a distinct impression that the land wants to be part of the conservation story of its river and its mountains [MS]. This page lays out that story, with the understanding that it comes from only four days on the land. It's included here so that those with a longer connection to the land and the company that owns it can test it against what they already know.
+Isikova & Ironwood is about 200 hectares on the Duiwenhoks River near Heidelberg, Western Cape [IC]. The river drains the Langeberg, one of South Africa's 22 strategic water source areas, and runs south to the sea [IC]. After four days camping on the farm in October 2026, the prospective stewards came away with a distinct impression that the land wants to be part of the conservation story of its river and its mountains [MS]. This page lays out that story, with the understanding that it comes from only four days on the land. It's included here so that those with a longer connection to the land and the company that owns it can test it against what they already know.
 
 
 > [!NOTE] This is an interpretation of the land's story by the prospective stewards.
@@ -166,7 +166,7 @@ Four days is a short time on a piece of land. The farm manager has known it for 
 - Which vegetation types cover the farm, how much is in natural condition, and how much is invaded by alien plants.
 - Whether the river banks and slopes on the farm show erosion, and how they came through the floods of recent years.
 - How residents read the land, and what story they would tell about it.
-- Where the names Isikhova and Ironwood come from. Isikhova is the isiXhosa word for owl [TBV]. The ironwood is the dominant tree of the Grootvadersbosch forest [IC]; whether the farm's name refers to it is not known [MS].
+- Where the names Isikova and Ironwood come from. Isikova is the isiXhosa word for owl [TBV]. The ironwood is the dominant tree of the Grootvadersbosch forest [IC]; whether the farm's name refers to it is not known [MS].
 - Whether redfin live in the stretch of river past the farm.
 - Whether any part of the farm lies inside the boundary of the Langeberg water source area.
 - Where the irrigation canal and the irrigation board’s off-takes leave the river, relative to the farm.

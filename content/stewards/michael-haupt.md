@@ -1,6 +1,6 @@
 ---
 title: Michael Haupt
-description: The eldest of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards. A former telecoms systems director who has lived in Greyton since 2013, where he convenes the Ward 2 Development Forum and writes the sites that record the valley.
+description: The eldest of the three Haupt siblings considering joining Isikova & Ironwood as land stewards. A former telecoms systems director who has lived in Greyton since 2013, where he convenes the Ward 2 Development Forum and writes the sites that record the valley.
 type: page
 tags:
   - stewards
@@ -10,7 +10,7 @@ tags:
 date: 2026-10-14
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases: []
 links:
   - https://df.valleyofgrace.co.za/contributors/michael-haupt
@@ -20,7 +20,7 @@ links:
 updated: 2026-10-23
 ---
 
-Michael Haupt, born in 1966, is the eldest of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards [MS]. He has lived in Greyton, in the Valley of Grace, since 2013 [MS]. There he convenes the [Ward 2 Development Forum](https://df.valleyofgrace.co.za) [IC] and writes the public sites that record the valley's people, history and rules [MS].
+Michael Haupt, born in 1966, is the eldest of the three Haupt siblings considering joining Isikova & Ironwood as land stewards [MS]. He has lived in Greyton, in the Valley of Grace, since 2013 [MS]. There he convenes the [Ward 2 Development Forum](https://df.valleyofgrace.co.za) [IC] and writes the public sites that record the valley's people, history and rules [MS].
 
 ## Building systems on six continents
 
@@ -47,11 +47,11 @@ Alongside the Forum he has built a network of public sites, written in plain lan
 - The [Genadendal Diaries repository](https://github.com/mbh66/genadendal-diaries) holds four of the Genadendal mission diaries as tables and plain text, with new English translations [MS].
 - The [BioHubs directory](https://biohubs.bioconomy.earth) and the [High School Decision Tool](https://hs.valleyofgrace.co.za) apply the same method to the valley's BioHub and to families choosing a high school [MS].
 
-Michael treats this body of work as a record of how he captures the essence of a place, from the words it uses to the people working in it [MS]. This site applies the same practice to Isikhova & Ironwood [MS].
+Michael treats this body of work as a record of how he captures the essence of a place, from the words it uses to the people working in it [MS]. This site applies the same practice to Isikova & Ironwood [MS].
 
 ## Coming to this land
 
-In October 2026 he camped on the farm with his siblings and saw for himself the land burnt in the 2025 fire [MS]. [[stewards/index|The Family's Story]] describes how his route meets his sister's and brother's.
+In October 2026 he camped on the farm with his siblings and saw for himself the land burnt in the 2025 fire [MS]. [[stewards/index|The Family's Story]] describes how his journey meets his sister's and brother's.
 
 ## What he would bring to the land
 
@@ -95,6 +95,6 @@ Michael and his siblings have written these proposals for the land in October 20
 - Ward 2 Development Forum. [Michael Haupt](https://df.valleyofgrace.co.za/contributors/michael-haupt). The Greyton Business Forum and his role as convenor.
 - Ward 2 Development Forum. [Minutes of the inaugural meeting](https://df.valleyofgrace.co.za/civic/governance/minutes/2026-09-16-inaugural-meeting), 16 September 2026. The date, place and conveners of the first meeting.
 - BioConomy wiki. [llms.txt](https://wiki.bioconomy.earth/llms.txt). The wiki's scope and entry counts.
-- GitHub. [mbh66/genadendal-diaries](https://github.com/mbh66/genadendal-diaries). The diaries repository.
+- GitHub. [mbh66/genadendal-diaries](https://github.com/mbh66/genadendal-diaries). The diaries repository that holds the early handwritten version of the valley's histoy.
 - BioConomy wiki. [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes). How soil condition decides whether rain is held or shed.
 - BioConomy wiki. [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds). How a bond ties part of its return to verified results.

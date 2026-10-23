@@ -11,7 +11,7 @@ tags:
 date: 2026-10-20
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Courtyard plan
 links: []
@@ -156,6 +156,6 @@ The site figures come from [[the-houses/layout-d-site-development-plan|Layout D]
 ## References
 
 - Hessequa Municipality. Letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on this site. The limits on floor area and height, the colours, rainwater tanks, septic tanks and the screening condition.
-- Isikhova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, as summarised on this site, and its Annexures 1 and 2, the Site Development Plan. Area under roof, double storeys, the Main Dwelling's two parts, design approval and the allocation table.
-- Isikhova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. One home on each Area, the encouraged size, households and the CMP's sign-off.
+- Isikova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, as summarised on this site, and its Annexures 1 and 2, the Site Development Plan. Area under roof, double storeys, the Main Dwelling's two parts, design approval and the allocation table.
+- Isikova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. One home on each Area, the encouraged size, households and the CMP's sign-off.
 - Western Cape Government. [Spatial Data Warehouse: Elevation, contour layers](https://gis.westerncape.gov.za/server2/rest/services/SpatialDataWarehouse/Elevation/MapServer/layers?f=pjson). The NGI contours behind the platform figures taken from Layout D.

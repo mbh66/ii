@@ -10,7 +10,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Neighbours
   - Surrounding conservation land
@@ -18,7 +18,7 @@ aliases:
 updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is portion 10 of the farm Broken Hill No. 88, in the [[institutions/hessequa-municipality|Hessequa Municipality]] north of Heidelberg [IC]. It covers about 200 hectares [IC]. The farm lies at the foot of the Langeberg, where mountain land protected for its water and its plants meets the farmland of the Duiwenhoks valley [MS]. On its north-western edge it shares a boundary with a parcel of the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]] [TBV]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]] lies about 100 metres away, and the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] about 700 metres upstream [MS]. Two of the neighbouring portions, which share about a third of the farm's boundary, are undeveloped [MS].
+Isikova & Ironwood is portion 10 of the farm Broken Hill No. 88, in the [[institutions/hessequa-municipality|Hessequa Municipality]] north of Heidelberg [IC]. It covers about 200 hectares [IC]. The farm lies at the foot of the Langeberg, where mountain land protected for its water and its plants meets the farmland of the Duiwenhoks valley [MS]. On its north-western edge it shares a boundary with a parcel of the [[the-land/boosmansbos-wilderness-area|Boosmansbos Wilderness Area]] [TBV]. The [[the-land/wilderness-nature-reserve|Wilderness Nature Reserve]] lies about 100 metres away, and the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] about 700 metres upstream [MS]. Two of the neighbouring portions, which share about a third of the farm's boundary, are undeveloped [MS].
 
 The neighbours named on this page are pieces of land, identified by their Surveyor General farm names and portion numbers. The page names no owners. The owners of neighbouring land, CapeNature and the Duiwenhoks [[institutions/duiwenhoks-irrigation-board|irrigation board]] have not yet been asked to comment on this page. The key to the letters in square brackets is on [[about|About This Site]].
 

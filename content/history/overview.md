@@ -11,14 +11,14 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Duiwenhoks history
   - History overview
 updated: 2026-10-13
 ---
 
-Isikhova & Ironwood lies on the Duiwenhoks River near Heidelberg [MS]. It is portion 10 of the farm Broken Hill No. 88 [IC], about 700 metres downstream of the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] [MS]. This page sets out what the written record says about the river valley around the farm, from the Khoekhoe herders who grazed it before 1652 to the dam that regulates the river today. It covers the district and the river. The history of the farm's own title has yet to be traced, and *What is still open* lists that work first.
+Isikova & Ironwood lies on the Duiwenhoks River near Heidelberg [MS]. It is portion 10 of the farm Broken Hill No. 88 [IC], about 700 metres downstream of the [[the-land/duiwenhoks-river-and-dam|Duiwenhoks Dam]] [MS]. This page sets out what the written record says about the river valley around the farm, from the Khoekhoe herders who grazed it before 1652 to the dam that regulates the river today. It covers the district and the river. The history of the farm's own title has yet to be traced, and *What is still open* lists that work first.
 
 The written record for most of this period was made by outsiders: [Dutch East India Company](https://df.valleyofgrace.co.za/history/institutions/dutch-east-india-company) officials, travellers, surveyors and later colonial administrators. Where the page relies on their accounts, it says so. Descendants of the Khoekhoe who lived here may live in the district today, and their own accounts correct this page. The key to the letters in square brackets is on [[about|About This Site]].
 

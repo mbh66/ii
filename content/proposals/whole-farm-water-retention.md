@@ -12,7 +12,7 @@ tags:
 date: 2026-10-20
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Whole-farm water retention
   - Water retention layouts
@@ -186,6 +186,6 @@ If you live on the farm or next to it, or know how its valleys behave in a storm
 - BioConomy wiki (2026). [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes). The concept, its earthworks, and the role of riparian zones in baseflow.
 - The prospective stewards' working map of the farm (October 2026). The zones, the Proposed Gully Stuff reach and the boundaries. Not published on this site.
 - Republic of South Africa. National Water Act 36 of 1998, section 21. The water uses that apply to work in a watercourse.
-- Isikhova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Sign-off for earthworks.
-- Isikhova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, as summarised on this site. Decisions that need every founding shareholder.
+- Isikova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Sign-off for earthworks.
+- Isikova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, as summarised on this site. Decisions that need every founding shareholder.
 - Hessequa Municipality. Letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on this site. Botanical sensitivity, the stewardship agreement and native trees.

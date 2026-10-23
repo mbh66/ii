@@ -10,7 +10,7 @@ tags:
 date: 2026-10-20
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Regularisation
   - Private nature reserve verification

@@ -9,7 +9,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 updated: 2026-10-13
 ---
 
@@ -46,7 +46,7 @@ Each page describes an institution only through what it has said or done, and ne
 
 ## Related
 
-- [[ii/institutions/index|Isikhova & Ironwood]]
+- [[index|Isikova & Ironwood]]
 - [[the-land/index|The Land]]
 - [[history/index|History]]
 - [[how-to-respond|How to Respond]]

@@ -12,7 +12,7 @@ tags:
 date: 2026-10-18
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Water retention housing
   - Cascading ponds
@@ -203,6 +203,6 @@ To explore an interactive version, visit https://earth.google.com/earth/d/1Z2zXb
 - Western Cape Government. [Spatial Data Warehouse: Elevation, contour layers](https://gis.westerncape.gov.za/server2/rest/services/SpatialDataWarehouse/Elevation/MapServer/layers?f=pjson). The NGI 10-metre contours used to model the shelf, the gully and the path of the water.
 - The prospective stewards' working map of the farm (October 2026). The ponds by the cabin, the campsite and the Proposed Gully Stuff reach. Not published on this site.
 - Republic of South Africa. National Water Act 36 of 1998, section 21. The water uses that apply to storing water and working in a watercourse.
-- Isikhova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, as summarised on this site, and its Annexures 1 and 2, the Site Development Plan. The Main Dwelling's two parts, moving an Area, and the allocation table.
-- Isikhova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Swales among the conservation priorities and sign-off for earthworks.
+- Isikova & Ironwood Forest Community (Pty) Ltd. Shareholders' Agreement, final text of 31 October 2025, as summarised on this site, and its Annexures 1 and 2, the Site Development Plan. The Main Dwelling's two parts, moving an Area, and the allocation table.
+- Isikova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Swales among the conservation priorities and sign-off for earthworks.
 - Hessequa Municipality. Letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on this site. The clustering condition, the botanical sensitivity and the deadline.

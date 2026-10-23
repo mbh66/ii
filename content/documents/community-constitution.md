@@ -1,6 +1,6 @@
 ---
 title: Community Constitution (2025)
-description: "A plain-language summary of the constitution of Isikhova & Ironwood Community Farm: who can be a member, how homes and shared facilities work, how the Community Management Panel runs daily life, and the quick rules for residents."
+description: "A plain-language summary of the constitution of Isikova & Ironwood Community Farm: who can be a member, how homes and shared facilities work, how the Community Management Panel runs daily life, and the quick rules for residents."
 type: page
 tags:
   - community
@@ -11,7 +11,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - IICF Constitution
 updated: 2026-10-13
@@ -20,7 +20,7 @@ updated: 2026-10-13
 > [!note] Not yet agreed with the company
 > This summary has not yet been shown to the company or its Community Management Panel. The constitution asks that public statements about the community have the Panel's prior agreement on content and timing [MS], so this page remains password protected and 'not confirmed' until the Panel has agreed the text.
 
-The constitution is the rulebook for daily life at Isikhova & Ironwood Community Farm (IICF), the community on the land owned by Isikhova & Ironwood Forest Community (Pty) Ltd [MS]. The version summarised here is the 10th edition, dated 31 October 2025 [MS]. It covers community matters. Legal matters sit in the [[documents/shareholders-agreement|Shareholders' Agreement]] and the company's Memorandum of Incorporation, and where they conflict with the constitution, those legal documents win [MS].
+The constitution is the rulebook for daily life at Isikova & Ironwood Community Farm (IICF), the community on the land owned by Isikova & Ironwood Forest Community (Pty) Ltd [MS]. The version summarised here is the 10th edition, dated 31 October 2025 [MS]. It covers community matters. Legal matters sit in the [[documents/shareholders-agreement|Shareholders' Agreement]] and the company's Memorandum of Incorporation, and where they conflict with the constitution, those legal documents win [MS].
 
 The letters in square brackets show where each fact comes from. [MS] means it comes from the company's own document. [[about|About This Site]] explains the tags.
 
@@ -152,4 +152,4 @@ Annex A gives the everyday rules in short form [MS]. Every guest reads and signs
 
 ## Source
 
-- Isikhova & Ironwood Community Farm, "Constitution of Isikhova & Ironwood Community Farm (IICF)", 10th edition, dated 31 October 2025, 13 pages. Supplied to the prospective stewards. Not published on this site.
+- Isikova & Ironwood Community Farm, "Constitution of Isikova & Ironwood Community Farm (IICF)", 10th edition, dated 31 October 2025, 13 pages. Supplied to the prospective stewards. Not published on this site.

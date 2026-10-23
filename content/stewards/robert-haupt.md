@@ -1,6 +1,6 @@
 ---
 title: Robert Haupt
-description: The youngest of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards. A builder who started his first business at 20, he has also run restaurant kitchens as head chef and studied herbal medicine.
+description: The youngest of the three Haupt siblings considering joining Isikova & Ironwood as land stewards. A builder who started his first business at 20, he has also run restaurant kitchens as head chef and studied herbal medicine.
 type: page
 tags:
   - stewards
@@ -8,7 +8,7 @@ tags:
 date: 2026-10-14
 draft: false
 right_of_reply: done
-password: isikhova
+password: isikova
 aliases: []
 links: []
 updated: 2026-10-23
@@ -25,7 +25,7 @@ updated: 2026-10-23
 >
 > Statements without a tag are proposals. They describe what an idea could become.
 
-Robert Haupt, born in 1973, is the youngest of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards [MS]. He has always worked with his hands, and he started his first business at the age of 20 [MS]. His career has included practical trade businesses, corporate and private construction, restaurant ownership and kitchen management as a head chef [MS].
+Robert Haupt, born in 1973, is the youngest of the three Haupt siblings considering joining Isikova & Ironwood as land stewards [MS]. He has always worked with his hands, and he started his first business at the age of 20 [MS]. His career has included practical trade businesses, corporate and private construction, restaurant ownership and kitchen management as a head chef [MS].
 
 He solves problems easily, which makes getting things done quickly and efficiently come naturally to him [MS]. Running small businesses has strengthened his entrepreneurial and people skills [MS].
 

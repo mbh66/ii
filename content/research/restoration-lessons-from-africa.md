@@ -11,7 +11,7 @@ tags:
 date: 2026-10-14
 draft: false
 right_of_reply: pending
-password: isikhova
+password: isikova
 aliases:
   - Lessons from the Muonde Trust
   - Muonde Trust lessons
@@ -20,7 +20,7 @@ aliases:
 updated: 2026-10-14
 ---
 
-This brief asks what community-led land restoration elsewhere in Africa can tell the people of Isikhova & Ironwood about caring for their land and the country around it. It rests on a review of sixteen initiatives that the prospective stewards made in October 2026, starting from the Muonde Trust in Mazvihwa, Zimbabwe [MS]. The review found that the initiatives which have lasted for decades grew from practices local people already used and from secure rights to land, trees or wildlife, and that their formal bodies came after many years of shared work [MS]. It found little independent evaluation: most outcome figures, Muonde's among them, come from the initiatives themselves [MS]. The cases differ from the farm in land tenure, rainfall, vegetation and the make-up of the community, so the brief sets out how far each finding reaches.
+This brief asks what community-led land restoration elsewhere in Africa can tell the people of Isikova & Ironwood about caring for their land and the country around it. It rests on a review of sixteen initiatives that the prospective stewards made in October 2026, starting from the Muonde Trust in Mazvihwa, Zimbabwe [MS]. The review found that the initiatives which have lasted for decades grew from practices local people already used and from secure rights to land, trees or wildlife, and that their formal bodies came after many years of shared work [MS]. It found little independent evaluation: most outcome figures, Muonde's among them, come from the initiatives themselves [MS]. The cases differ from the farm in land tenure, rainfall, vegetation and the make-up of the community, so the brief sets out how far each finding reaches.
 
 > **This brief records evidence. It proposes nothing.** Any idea drawn from it will have its own page in [[proposals/index|Proposals]]. The company and its Community Management Panel have not yet replied to this page. The Muonde Trust, Friends of Muonde, the Overberg Renosterveld Conservation Trust, the Gouritz Cluster Biosphere Reserve, [[institutions/capenature|CapeNature]], the [[institutions/grootvadersbosch-conservancy|Grootvadersbosch Conservancy]] and the other organisations named here have not yet been asked to comment on how it describes their work.
 
@@ -100,7 +100,7 @@ The district already holds several of the tools the cases point to.
 
 ## Where the cases differ from the farm
 
-- **Land tenure.** Muonde works in a communal area [IC], where it says chiefs bless each initiative [TBV]. Shinyanga's enclosures rest on village by-laws [IC]. Isikhova & Ironwood is owned by a company [MS]. Its constitution sends community matters to the CMP, which advises the Board, and its shareholders' agreement governs legal matters [MS]. A chief's blessing has no counterpart here. Decisions on title, servitudes and contracts sit with the Board [MS].
+- **Land tenure.** Muonde works in a communal area [IC], where it says chiefs bless each initiative [TBV]. Shinyanga's enclosures rest on village by-laws [IC]. Isikova & Ironwood is owned by a company [MS]. Its constitution sends community matters to the CMP, which advises the Board, and its shareholders' agreement governs legal matters [MS]. A chief's blessing has no counterpart here. Decisions on title, servitudes and contracts sit with the Board [MS].
 - **The community.** Mazvihwa is one chiefdom with many clans [TBV]. The farm has room for up to seven households [MS]. Communities along the N2 coast fall under more than one municipality and have their own histories [TBV].
 - **Scale.** Muonde works across parts of two wards [TBV]. The farm covers 199.66 hectares on the Surveyor General's record [IC].
 - **Rain, vegetation and fire.** Mazvihwa is semi-arid, and the water harvesting the cases describe was developed for short rainy seasons [TBV]. The Duiwenhoks catchment receives rain throughout the year, with peaks in autumn and spring [IC]. The farm is mapped mostly as fynbos, which burns [MS], and a fire burned the farm in August 2025 [MS].
@@ -164,5 +164,5 @@ The district already holds several of the tools the cases point to.
 - Polity (2015). [South Africa's Magaliesberg and Gouritz ecosystems approved as UNESCO biosphere reserves](https://www.polity.org.za/article/safricas-magaliesberg-and-gouritz-ecosystems-approved-as-unesco-biosphere-reserves-2015-06-10). The 2015 designation.
 - CapeNature. [Stewardship](https://www.capenature.co.za/stewardship). The four stewardship options.
 - Grootvadersbosch Conservancy Trust. [Listing on Trailforks](https://www.trailforks.com/directory/10291). The conservancy's own account of its members and area.
-- Isikhova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Conservation priorities, CMP portfolios, fire obligations and induction.
+- Isikova & Ironwood Community Farm. Constitution, 10th edition, 31 October 2025, as summarised on this site. Conservation priorities, CMP portfolios, fire obligations and induction.
 - Hessequa Municipality. Letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on this site. The condition linking the environmental plan to a CapeNature stewardship agreement.

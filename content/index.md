@@ -1,6 +1,6 @@
 ---
-title: "Isikhova & Ironwood"
-description: "A working proposal for the story of Isikhova & Ironwood, about 200 hectares near Heidelberg, written by a family considering joining as land stewards. It holds the land, its history, the community and the ideas on the table."
+title: "Isikova & Ironwood"
+description: "A working proposal for the story of Isikova & Ironwood, about 200 hectares near Heidelberg, written by a family considering joining as land stewards. It holds the land, its history, the community and the ideas on the table."
 type: page
 tags:
   - site
@@ -8,11 +8,11 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: not-needed
-password: isikhova
+password: isikova
 updated: 2026-10-17
 ---
 
-Isikhova & Ironwood is a parcel of about 200 hectares in the mountains above Heidelberg, Western Cape [IC]. Members of the Haupt family are considering joining it as land stewards [MS]. 
+Isikova & Ironwood is a parcel of about 200 hectares in the mountains above Heidelberg, Western Cape [IC]. Members of the Haupt family are considering joining it as land stewards [MS]. 
 
 This wiki is a working document showing our understanding of the potential of the land, covering: 
 - Where she's located and what happens on land surrounding her, 

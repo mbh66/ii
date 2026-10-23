@@ -8,11 +8,11 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: not-needed
-password: isikhova
+password: isikova
 updated: 2026-10-13
 ---
 
-Michael Haupt writes this site with his family, who are considering joining Isikhova & Ironwood as land stewards [MS]. The farm is owned by a company, and its residents live under a [[documents/community-constitution|community constitution]] [MS]. The site collects what is known about the land, its past, and its present community, and sets out ideas for its future as proposals. 
+Michael Haupt writes this site with his family, who are considering joining Isikova & Ironwood as land stewards [MS]. The farm is owned by a company, and its residents live under a [[documents/community-constitution|community constitution]] [MS]. The site collects what is known about the land, its past, and its present community, and sets out ideas for its future as proposals. 
 
 Any proposal presented on this site is simply an idea. It only becomes a decision worth acting on when the people who would carry it out have agreed to it.
 
@@ -30,7 +30,7 @@ The site borrows its practices from the [Ward 2 Development Forum register](http
 
 The Haupt siblings wrote and compiled this site, and we hold copyright in that work. Much of what it records came from somewhere else: from the land itself, from the people who have lived and worked on it, and from those whose history runs through this part of the Breede and Langeberg country. That knowledge was never ours to own. Where we know a source, we name it. Where we have recorded something incorrectly or without proper credit, we want to hear about it, and we will correct or remove it.
 
-Please don’t republish material from this site without asking. It is shared with people taking part in the Isikhova & Ironwood conversation, and some of it concerns people and matters covered by the community’s constitution.
+Please don’t republish material from this site without asking. It is shared with people taking part in the Isikova & Ironwood conversation, and some of it concerns people and matters covered by the community’s constitution.
 
 > [!info] What the letters in square brackets mean
 > Facts on this site are followed by a tag that shows where they come from.
@@ -43,5 +43,5 @@ Please don’t republish material from this site without asking. It is shared wi
 
 ## Related
 
-- [[ii/index|Isikhova & Ironwood]]
+- [[index|Isikova & Ironwood]]
 - [[how-to-respond|How to Respond]]
