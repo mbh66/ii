@@ -185,6 +185,7 @@ To explore an interactive version, visit https://earth.google.com/earth/d/1Z2zXb
 
 - [[proposals/index|Proposals]]
 - [[proposals/first-five-years-on-the-land|The First Five Years on the Land]]
+- [[proposals/whole-farm-water-retention|Water Retention Across the Whole Farm]]
 - [[the-houses/index|The Houses]]
 - [[the-houses/layout-d-site-development-plan|Layout D: Following the Site Development Plan]]
 - [[research/water-retention-evidence|Evidence on Water and Soil in Fynbos and Renosterveld]]

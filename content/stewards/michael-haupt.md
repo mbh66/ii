@@ -4,6 +4,7 @@ description: The eldest of the three Haupt siblings considering joining Isikhova
 type: page
 tags:
   - stewards
+  - theme/water
   - theme/governance
   - lang/en
 date: 2026-10-14
@@ -14,7 +15,9 @@ aliases: []
 links:
   - https://df.valleyofgrace.co.za/contributors/michael-haupt
   - https://wiki.bioconomy.earth
-updated: 2026-10-14
+  - https://wiki.bioconomy.earth/concepts/water-retention-landscapes
+  - https://wiki.bioconomy.earth/concepts/performance-based-water-bonds
+updated: 2026-10-23
 ---
 
 Michael Haupt, born in 1966, is the eldest of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards [MS]. He has lived in Greyton, in the Valley of Grace, since 2013 [MS]. There he convenes the [Ward 2 Development Forum](https://df.valleyofgrace.co.za) [IC] and writes the public sites that record the valley's people, history and rules [MS].
@@ -50,11 +53,40 @@ Michael treats this body of work as a record of how he captures the essence of a
 
 In October 2026 he camped on the farm with his siblings and saw for himself the land burnt in the 2025 fire [MS]. [[stewards/index|The Family's Story]] describes how his route meets his sister's and brother's.
 
+## What he would bring to the land
+
+Whether the family joins is the company's decision. The family's proposal will be set out under [[proposals/index|Proposals]] once it has been put to the company. If the company agrees, Michael would bring his work on how land can hold its water, and on how that work can be measured and paid for.
+
+### Water Retention Landscapes
+
+A Water Retention Landscape is land shaped and planted so that rain soaks into the soil and reaches streams slowly over weeks, where on bare or compacted soil it would run off within hours and take topsoil with it. The [BioConomy wiki](https://wiki.bioconomy.earth/concepts/water-retention-landscapes) describes the idea in full.
+
+In October 2026 Michael and his siblings searched the published research on water-holding earthworks in fynbos and renosterveld, and found no study in the Cape Floristic Region that tests them [MS]. [[research/water-retention-evidence|Evidence on Water and Soil in Fynbos and Renosterveld]] sets out what they did find. Because that evidence is missing, the proposals below start with a record of the land and small trials that are measured from the first day. Michael would bring the design of those trials and the work of keeping their record, as he has kept the record of the Valley of Grace.
+
+### The link to the Cape Water Bond
+
+The [[the-land/cape-water-bond|Cape Water Performance-Based Bond]], listed on the Johannesburg Stock Exchange in April 2026, pays for clearing invasive plants from the catchments that supply Cape Town [IC]. Part of what its investors earn depends on independently verified results [IC]. [[the-land/langeberg-water-source-area|The Langeberg]] is one of South Africa's 22 strategic water source areas [IC]. Nobody knows yet whether a later bond will cover it.
+
+Michael's current work shows rural communities how they can take part in performance-based nature bonds of this kind [MS]. The [BioConomy wiki](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds) explains how such a bond ties its return to verified results. A farm that has measured its own water from the start would have evidence to offer if a bond reaches the Langeberg. Michael would bring the methods for that measurement and his working knowledge of how the bonds verify results.
+
+### Proposals written and not yet tabled
+
+Michael and his siblings have written these proposals for the land in October 2026 [MS]. None has yet been put to the company [MS]. Each would go to the company through its Community Management Panel.
+
+- [[proposals/first-five-years-on-the-land|The First Five Years on the Land]]: record the land and run small measured trials of water-holding work while the community settles, with a university as partner.
+- [[proposals/whole-farm-water-retention|Water Retention Across the Whole Farm]]: five ways to lay out water-holding work across the farm, with some valleys left untreated for comparison.
+- [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]]: the land around the homes laid out as a Water Retention Landscape, with ponds stepping down from the pond by the cabin.
+- [[proposals/lidar-survey-of-the-farm|A LiDAR Survey of the Farm]]: a drone survey of the ground while the fynbos is low after the 2025 fire, to map slope and water flow before anything is built.
+- [[the-houses/index|The Houses]]: draft layouts for where the homes and the Main Dwelling could stand.
+
 ## Related
 
 - [[stewards/index|The Family's Story]]
 - [[stewards/veronica-haupt|Veronica Haupt]]
 - [[stewards/robert-haupt|Robert Haupt]]
+- [[proposals/index|Proposals]]
+- [[the-land/cape-water-bond|The Cape Water Bond and Clearing Around the Farm]]
+- [[research/water-retention-evidence|Evidence on Water and Soil in Fynbos and Renosterveld]]
 - [[about|About This Site]]
 
 ## References
@@ -64,3 +96,5 @@ In October 2026 he camped on the farm with his siblings and saw for himself the 
 - Ward 2 Development Forum. [Minutes of the inaugural meeting](https://df.valleyofgrace.co.za/civic/governance/minutes/2026-09-16-inaugural-meeting), 16 September 2026. The date, place and conveners of the first meeting.
 - BioConomy wiki. [llms.txt](https://wiki.bioconomy.earth/llms.txt). The wiki's scope and entry counts.
 - GitHub. [mbh66/genadendal-diaries](https://github.com/mbh66/genadendal-diaries). The diaries repository.
+- BioConomy wiki. [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes). How soil condition decides whether rain is held or shed.
+- BioConomy wiki. [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds). How a bond ties part of its return to verified results.

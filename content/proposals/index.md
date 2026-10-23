@@ -26,6 +26,8 @@ A proposal is a high-level discussion paper for unlocking the land's potential. 
 
 - [[proposals/first-five-years-on-the-land|The First Five Years on the Land]]: record the land and run small measured trials of water-holding work while the community settles, partner with a South African university, then share results with neighbors, CapeNature, and water funders. Not yet put forward to the company.
 - [[proposals/homes-in-a-water-retention-landscape|Homes in a Water Retention Landscape]]: lay out the land around the homes as a planned Water Retention Landscape: three ponds stepping west from the pond by the cabin as far as Unit 3, a swale doubling back east to a stuffed stretch of the dry gully, and the Main Dwelling moved beside the middle pond, close to the homes. Not yet put forward to the company.
+- [[proposals/whole-farm-water-retention|Water Retention Across the Whole Farm]]: five ways to lay out water-holding work across the farm, from the plateau and the main gully to the river edge, with valleys kept untreated for comparison and a suggested combination for the first five years. Not yet put forward to the company.
+- [[proposals/lidar-survey-of-the-farm|A LiDAR Survey of the Farm]]: survey the farm's ground from a drone with LiDAR while the fynbos is low after the 2025 fire, process it into slope and water-flow maps for siting homes, tracks and water works, and repeat it in years 5 and 10 as a research record. Not yet put forward to the company.
 - [[the-houses/index|The Houses]]: four draft layouts for where the six homes and the Main Dwelling could stand, each a concept page in its own section. Not yet put forward to the company.
 
 ## Related
