@@ -1,6 +1,6 @@
 ---
 title: Documents
-description: Plain-language summaries of the documents that govern Isikova & Ironwood, from the community constitution and shareholders' agreement to the municipal approval for homes and the residents' first newsletter.
+description: Plain-language summaries of the documents that govern Isikhova & Ironwood, from the community constitution and shareholders' agreement to the municipal approval for homes and the residents' first newsletter.
 type: page
 tags:
   - site
@@ -8,11 +8,11 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikova
+password: isikhova
 updated: 2026-10-23
 ---
 
-This section summarises the documents that shape life and decisions at Isikova & Ironwood. Each page explains one document in plain language, so a reader can follow its main points without working through the legal text. The original documents are not published here.
+This section summarises the documents that shape life and decisions at Isikhova & Ironwood. Each page explains one document in plain language, so a reader can follow its main points without working through the legal text. The original documents are not published here.
 
 Every summary leaves out the names of members and signatories, contact details and the financial terms of the company's agreements.
 
@@ -28,6 +28,6 @@ Facts carry [MS] when they come from the company's own documents and [IC] when t
 
 ## Related
 
-- [[index|Isikova & Ironwood]]
+- [[index|Isikhova & Ironwood]]
 - [[community/index|Community]]
 - [[how-to-respond|How to Respond]]

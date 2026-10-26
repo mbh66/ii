@@ -9,7 +9,7 @@ tags:
 date: 2026-10-20
 draft: false
 right_of_reply: pending
-password: isikova
+password: isikhova
 aliases:
   - Hessequa Hills
   - Hessequa Hills Nature Reserve
@@ -114,7 +114,7 @@ The reserve carries the name of the [Hessequa](https://df.valleyofgrace.co.za/hi
 ## References
 
 - Hessequa Municipality: letter of 1 October 2024 giving notice of the Eden Joint Planning Tribunal's decision, as summarised on [[documents/municipal-approval-2024|Municipal Approval for Additional Homes (2024)]]. The declaration date and the 5 km radius.
-- PlanServ (Pty) Ltd for Isikova and Ironwood Forest Community (Pty) Ltd: "Consent Use: Portion 10 of the Farm Broken Hill No. 88, Hessequa Municipality", motivation report, ref. 2302, February 2024, as summarised on [[documents/consent-use-application-2024|The Application for Additional Homes (2024)]]. The distance from the farm and the reserve's condition.
+- PlanServ (Pty) Ltd for Isikhova and Ironwood Forest Community (Pty) Ltd: "Consent Use: Portion 10 of the Farm Broken Hill No. 88, Hessequa Municipality", motivation report, ref. 2302, February 2024, as summarised on [[documents/consent-use-application-2024|The Application for Additional Homes (2024)]]. The distance from the farm and the reserve's condition.
 - UNEP-WCMC: [Protected Area Profile for Hessequa Hills Private Nature Reserve](https://www.protectedplanet.net/555570867), from the World Database on Protected Areas, October 2026. Designation, status, status year, governance, ownership, management authority, management plan and reported area. Its source is the South Africa Protected Areas Database of the Department of Forestry, Fisheries and the Environment, updated 2026.
 - UNEP-WCMC: [World Database on Protected Areas map service](https://data-gis.unep-wcmc.org/server/rest/services/ProtectedSites/The_World_Database_of_Protected_Areas/MapServer/1), consulted on 20 October 2026. The reserve's outline, its GIS area and the state verification flag.
 - Chief Surveyor-General: [CSG search map service](https://csggis.dlrrd.gov.za/server/rest/services/CSGSearch/MapServer), consulted on 20 October 2026. The cadastral outlines and areas of the three parcels and of the farm.

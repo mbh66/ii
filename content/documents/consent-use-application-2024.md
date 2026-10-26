@@ -13,7 +13,7 @@ tags:
 date: 2026-10-23
 draft: false
 right_of_reply: pending
-password: isikova
+password: isikhova
 aliases:
   - Consent use application
   - Motivation report
@@ -43,9 +43,9 @@ This page summarises the motivation report. Everything in it is the applicant's 
 | 1990 | The title deed is registered to the company's predecessor, a close corporation | [MS] |
 | 10 March 2015 | The municipality approves five additional dwellings, together with a primary and a secondary dwelling, a workshop and an office | [MS] |
 | 2017 | The 2015 approval lapses | [MS] |
-| 2018 | The close corporation is renamed Isikova Ironwood Forest CC | [MS] |
+| 2018 | The close corporation is renamed Isikhova Ironwood Forest CC | [MS] |
 | April to May 2021 | Heritage Western Cape is notified of the plan for five additional dwellings and confirms that no further action is required under the heritage law | [MS] |
-| 2021 | The close corporation becomes Isikova and Ironwood Forest Community (Pty) Ltd | [MS] |
+| 2021 | The close corporation becomes Isikhova and Ironwood Forest Community (Pty) Ltd | [MS] |
 | 16 November 2022 | A pre-application is submitted to the municipality, and discussed on 2 February 2023 | [MS] |
 | Early 2023 | Plans that included tourist accommodation are dropped after the environment department advises that they would trigger listed activities under NEMA | [MS] |
 | 19 December 2023 | The provincial environment department responds that the revised proposal does not appear to be a listed activity under NEMA | [MS] |
@@ -59,7 +59,7 @@ The report says the directors' aim is the one they held from the start: off-grid
 | Item | What the report says |
 |---|---|
 | Description | Portion 10 of the farm Broken Hill No. 88, also called Zand Drift, in the Swellendam Division [MS] |
-| Owner | Isikova and Ironwood Forest Community (Pty) Ltd [MS] |
+| Owner | Isikhova and Ironwood Forest Community (Pty) Ltd [MS] |
 | Area | 201.9445 hectares on the title deed, and 199.66 hectares in the Surveyor General's database [MS] |
 | Coordinates | 34° 0′ 32.50″ S, 20° 56′ 57.23″ E [MS] |
 | Zoning | Agricultural Zone I under the Hessequa zoning scheme by-law of 2018 [MS] |
@@ -148,4 +148,4 @@ It also quotes the provincial rural areas guideline of 2019, which recommends on
 
 ## Source
 
-- PlanServ (Pty) Ltd for the directors of Isikova and Ironwood Forest Community (Pty) Ltd, "Application for Consent Use: Portion 10 of the Farm Broken Hill No. 88, Hessequa Municipality", motivation report, ref. 2302, February 2024, 31 pages, copyright reserved. Supplied to the prospective stewards. Not published on this site.
+- PlanServ (Pty) Ltd for the directors of Isikhova and Ironwood Forest Community (Pty) Ltd, "Application for Consent Use: Portion 10 of the Farm Broken Hill No. 88, Hessequa Municipality", motivation report, ref. 2302, February 2024, 31 pages, copyright reserved. Supplied to the prospective stewards. Not published on this site.

@@ -1,6 +1,6 @@
 ---
 title: Michael Haupt
-description: The eldest of the three Haupt siblings considering joining Isikova & Ironwood as land stewards. A former telecoms systems director who has lived in Greyton since 2013, where he convenes the Ward 2 Development Forum and writes the sites that record the valley.
+description: The eldest of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards. A former telecoms systems director who has lived in Greyton since 2013, where he convenes the Ward 2 Development Forum and writes the sites that record the valley.
 type: page
 tags:
   - stewards
@@ -10,7 +10,7 @@ tags:
 date: 2026-10-14
 draft: false
 right_of_reply: pending
-password: isikova
+password: isikhova
 aliases: []
 links:
   - https://df.valleyofgrace.co.za/contributors/michael-haupt
@@ -20,7 +20,7 @@ links:
 updated: 2026-10-23
 ---
 
-Michael Haupt, born in 1966, is the eldest of the three Haupt siblings considering joining Isikova & Ironwood as land stewards [MS]. He has lived in Greyton, in the Valley of Grace, since 2013 [MS]. There he convenes the [Ward 2 Development Forum](https://df.valleyofgrace.co.za) [IC] and writes the public sites that record the valley's people, history and rules [MS].
+Michael Haupt, born in 1966, is the eldest of the three Haupt siblings considering joining Isikhova & Ironwood as land stewards [MS]. He has lived in Greyton, in the Valley of Grace, since 2013 [MS]. There he convenes the [Ward 2 Development Forum](https://df.valleyofgrace.co.za) [IC] and writes the public sites that record the valley's people, history and rules [MS].
 
 ## Building systems on six continents
 
@@ -47,7 +47,7 @@ Alongside the Forum he has built a network of public sites, written in plain lan
 - The [Genadendal Diaries repository](https://github.com/mbh66/genadendal-diaries) holds four of the Genadendal mission diaries as tables and plain text, with new English translations [MS].
 - The [BioHubs directory](https://biohubs.bioconomy.earth) and the [High School Decision Tool](https://hs.valleyofgrace.co.za) apply the same method to the valley's BioHub and to families choosing a high school [MS].
 
-Michael treats this body of work as a record of how he captures the essence of a place, from the words it uses to the people working in it [MS]. This site applies the same practice to Isikova & Ironwood [MS].
+Michael treats this body of work as a record of how he captures the essence of a place, from the words it uses to the people working in it [MS]. This site applies the same practice to Isikhova & Ironwood [MS].
 
 ## Coming to this land
 

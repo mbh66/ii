@@ -10,7 +10,7 @@ tags:
 date: 2026-10-13
 draft: false
 right_of_reply: pending
-password: isikova
+password: isikhova
 aliases:
   - TNC
   - The Nature Conservancy South Africa

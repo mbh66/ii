@@ -8,7 +8,7 @@ tags:
 date: 2026-10-17
 draft: false
 right_of_reply: not-needed
-password: isikova
+password: isikhova
 aliases: []
 links: []
 updated: 2026-10-23
